@@ -1,0 +1,5 @@
+Test_Case_Id,LoginInPin0,LoginInPin1,LoginInPin2,LoginInPin3,LoginInPin4,RecipientName,NotifyCellNo,Email,PhoneNumber,Amount,Reference,UpdateRecipientName
+1,1,2,3,4,5,Manqoba Mkhize,0724447137,mkhizemanqoba178@gmail.com,0724447137,50,Birthday,Glen Ngwane
+2,1,2,3,4,5,Manqoba Mkhize,0875555231,mkhizemanqoba178@gmail.com,0875555231,100,Car,RedoMetro
+3,1,2,3,4,5,Manqoba Mkhize,0724447137,mkhizemanqoba178@gmail.com,0724447137,70,Grocery,Glen Ngwane
+4,1,2,3,4,5,Manqoba Mkhize,0724447137,mkhizemanqoba178@gmail.com,0724447137,80,Transport,Glen Ngwane

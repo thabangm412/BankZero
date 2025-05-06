@@ -1,0 +1,9 @@
+Test_Case_Id,Test_Case_Description,LoginInPin0,LoginInPin1,LoginInPin2,LoginInPin3,LoginInPin4,ItemName,NotifyCellNo,Email,CellNo,Amount,Reference,Provider,Product
+1,Add Item to Buy SMS On <Provider> For <Product>,1,9,6,2,1,newToMyAccount,0724447137,mkhizemanqoba178@gmail.com,0829803141,100,Kwakhabazela,Vodacom,100 SMS
+2,,1,9,6,2,1,SM4S3 Shake My Sou,0724447137,info@bankzero.co.za,0829803141,100,Manqoba
+3,,1,9,6,2,1,SMS 3Shak4e My Sou Savings,0724447137,info@bankzero.co.za,0829803141,100,Manqoba
+4,,1,9,6,2,1, Mak43and4iSMS Shake My Soumi,0724447137,info@bankzero.co.za,0829803141,100,Manqoba
+5,,1,9,6,2,1,Glexk3SMS4 Shake My Souabindi,0724447137,info@bankzero.co.za,0829803141,100,Manqoba
+6,,1,9,6,2,1,RossB3SMS S4hake My Souank,0724447137,info@bankzero.co.za,0829803141,50,Manqoba
+7,,1,9,6,2,1,StrinS3MS S4hake My Sougs,0724447137,info@bankzero.co.za,0829803141,100,Manqoba
+8,,1,9,6,2,1,Java 3SMS Sh4ake My SouFamily,0724447137,info@bankzero.co.za,0829803141,100,Manqoba

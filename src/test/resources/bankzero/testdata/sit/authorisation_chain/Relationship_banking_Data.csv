@@ -1,0 +1,4 @@
+Test_Case_Id,Test_Case_Description,LoginInPin0,LoginInPin1,LoginInPin2,LoginInPin3,LoginInPin4,NameEdit,CellNo,Role
+1,Add relationship banking,3,0,3,0,3,nico,0799258100,Admin
+2,Add account relationship banking account 2,3,0,3,0,3,Gift,0792751027,Finance
+3,Delete account relationship banking account,3,0,3,0,3,,,Finance

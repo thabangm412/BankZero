@@ -1,0 +1,3 @@
+Test_Case_Id,LoginInPin0,LoginInPin1,LoginInPin2,LoginInPin3,LoginInPin4,Profiles,TypeOfAccount,RecipientName,cellno,email,AccountNumber,Amount,Reference,UpdateRecipientName
+1,1,9,6,2,1,Mpho,BusinessAccountDots,Manqoba Mkhize,0875555231,mkhizemanqoba178@gmail.com,82000071580,100,Kwakhabazela,Sir Glen
+2,1,9,6,2,1,Mpho,BusinessAccountDots,Manqoba Mkhize,0875555231,mkhizemanqoba178@gmail.com,0875555231,100,Kwakhabazela,RedoMetro

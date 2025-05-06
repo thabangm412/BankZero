@@ -1,0 +1,23 @@
+debug: true
+
+spring:
+  mail:
+    host: 'smtp-mail.outlook.com'
+    port: 587
+    username: 'username@outlook.com'
+    password: 'xxxxxx'
+    properties:
+      mail:
+        tls: true
+        protocol: smtp
+        smtp:
+          auth: true
+          ssl:
+            trust: 'smtp-mail.outlook.com'
+          starttls:
+            enable: true
+
+# SSL, post 465
+#spring.mail.properties.mail.smtp.socketFactory.port = 465
+#spring.mail.properties.mail.smtp.socketFactory.class = javax.net.ssl.SSLSocketFactory
+

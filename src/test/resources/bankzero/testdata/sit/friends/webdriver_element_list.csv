@@ -1,0 +1,58 @@
+Record_Id ,Description,WebDriver_Element_Selector_Type,WebDriver_Element_Selector_Value,Android_WebDriver_Element_Selector_Value,IOS_WebDriver_Element_Selector_Value
+LoginInPin0,Login In Pin 0,xpath,,//android.widget.EditText[@resource-id='za.co.neolabs.bankzero:id/login_pin_0_0_0'],//XCUIElementTypeWindow/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeSecureTextField[1]
+LoginInPin1,Login In Pin 1,xpath,,//android.widget.EditText[@resource-id='za.co.neolabs.bankzero:id/login_pin_0_0_1'],//XCUIElementTypeWindow/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeSecureTextField[2]
+LoginInPin2,Login In Pin 2,xpath,,//android.widget.EditText[@resource-id='za.co.neolabs.bankzero:id/login_pin_0_0_2'],//XCUIElementTypeWindow/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeSecureTextField[3]
+LoginInPin3,Login In Pin 3,xpath,,//android.widget.EditText[@resource-id='za.co.neolabs.bankzero:id/login_pin_0_0_3'],//XCUIElementTypeWindow/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeSecureTextField[4]
+LoginInPin4,Login In Pin 4,xpath,,//android.widget.EditText[@resource-id='za.co.neolabs.bankzero:id/login_pin_0_0_4'],//XCUIElementTypeWindow/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeSecureTextField[5]
+VerticalDots,vertical dots,xpath , ,(//android.widget.ImageView[@resource-id='za.co.neolabs.bankzero:id/tileMenu'])[1],(//XCUIElementTypeImage[@name='vertical-dots'])[1]
+friends,friends,xpath,,//android.widget.TextView[@resource-id="za.co.neolabs.bankzero:id/menuItemText" and @text="Friends"],//XCUIElementTypeStaticText[@name="Friends"]
+plusSign,plusSign,xpath,,//android.widget.ImageView[@resource-id="za.co.neolabs.bankzero:id/mnu_addFriends"],//XCUIElementTypeImage[@name="plus"]
+friendName,friendName,xpath,,//android.widget.EditText[@resource-id="za.co.neolabs.bankzero:id/invite_friend_name"],//XCUIElementTypeTextField[@value="Friend name"]
+cellNo,cellNo,xpath,,//android.widget.EditText[@resource-id="za.co.neolabs.bankzero:id/invite_friend_cellno"],//XCUIElementTypeTextField[@value="Cell number"]
+addButton,addButton,xpath,,//android.widget.Button[@resource-id="za.co.neolabs.bankzero:id/btnConfirm"],//XCUIElementTypeButton[@name="Add"]
+confirmButton,confirmButton,xpath,,//android.widget.Button[@resource-id="za.co.neolabs.bankzero:id/btnConfirm"],//XCUIElementTypeButton[@name="Confirm"]
+confirmMessage,confirmMessage,xpath,,//android.widget.LinearLayout[@resource-id="za.co.neolabs.bankzero:id/content"]/android.widget.LinearLayout/android.widget.LinearLayout[2],//XCUIElementTypeStaticText[@name="Confirmed: Friend Gift with number 0860345901 invited"]
+Finish,Finish,xpath,,//android.widget.Button[@resource-id="za.co.neolabs.bankzero:id/btnConfirm"],//XCUIElementTypeButton[@name="Finish"]
+itemDescription,itemDescription,xpath,,//android.widget.TextView[@resource-id="za.co.neolabs.bankzero:id/itemDescription"],//XCUIElementTypeStaticText[@name="Invited 0860345901"]
+tabFriend,Tabfriend,xpath,,//android.widget.TextView[@resource-id="za.co.neolabs.bankzero:id/titleText"],//XCUIElementTypeCell/XCUIElementTypeOther[1]/XCUIElementTypeOther
+binIcon,binIcon,xpath,,//android.widget.ImageView[@resource-id="za.co.neolabs.bankzero:id/mnu_deleteFriend"],//XCUIElementTypeImage[@name="ic_delete_wc_bin"]
+message,message,xpath,,//android.widget.TextView[@resource-id="android:id/message"],//XCUIElementTypeStaticText[@name="Friend Gift with number 0860345901 will be unfriended. Confirm?"]
+Yesbtn,Yesbtn,xpath,,//android.widget.Button[@resource-id="android:id/button1"],//XCUIElementTypeButton[@name="Yes"]
+SavingScriptDots,SavingScriptDots,xpath,,(//android.widget.ImageView[@resource-id="za.co.neolabs.bankzero:id/tileMenu"])[3],
+PassedMassage,PassedMassage,xpath,,//android.widget.TextView[@text="Confirmed:"],
+FinishBtn,FinishBtn,xpath,,//android.widget.Button[@resource-id="za.co.neolabs.bankzero:id/btnConfirm"],
+failedMassage,failedMassage,xpath,,//android.widget.TextView[@resource-id="za.co.neolabs.bankzero:id/not_with_zero"],
+FriendProfile,FriendProfile,xpath,,//android.widget.TextView[@resource-id="za.co.neolabs.bankzero:id/titleText"],
+DeleteFriend,DeleteFriend,xpath,,//android.widget.ImageView[@resource-id="za.co.neolabs.bankzero:id/mnu_deleteFriend"],
+YesDelete,YesDelete,xpath,,//android.widget.Button[@resource-id="android:id/button1"],
+VerticalDots7,VerticalDots7,xpath, ,(//android.widget.ImageView[@resource-id="za.co.neolabs.bankzero:id/tileMenu"])[5],
+VerticalDots32,VerticalDots32,xpath,,(//android.widget.ImageView[@resource-id="za.co.neolabs.bankzero:id/tileMenu"])[7],
+VerticalDots45,VerticalDots45,xpath,,(//android.widget.ImageView[@resource-id="za.co.neolabs.bankzero:id/tileMenu"])[6],
+VerticalDots,vertical dots,xpath , ,(//ANDROID.widget.ImageView[@resource-id='za.co.neolabs.bankzero:id/tileMenu'])[1],(//XCUIElementTypeImage[@name='vertical-dots'])[1]
+VerticalDot,vertical dots,xpath , ,(//ANDROID.widget.ImageView[@resource-id='za.co.neolabs.bankzero:id/tileMenu'])[1],(//XCUIElementTypeImage[@name='vertical-dots'])[3]
+VerticalDotss,vertical dots,xpath , ,(//ANDROID.widget.ImageView[@resource-id='za.co.neolabs.bankzero:id/tileMenu'])[1],(//XCUIElementTypeImage[@name='vertical-dots'])[4]
+VerticalDots45DayNotice,vertical dots,xpath , ,(//ANDROID.widget.ImageView[@resource-id='za.co.neolabs.bankzero:id/tileMenu'])[1],(//XCUIElementTypeImage[@name='vertical-dots'])[6]
+friends,friends,xpath,,//ANDROID.widget.TextView[@resource-id="za.co.neolabs.bankzero:id/menuItemText" and @text="Friends"],//XCUIElementTypeStaticText[@name="Friends"]
+plusSign,plusSign,xpath,,//ANDROID.widget.ImageView[@resource-id="za.co.neolabs.bankzero:id/mnu_addFriends"],//XCUIElementTypeImage[@name="plus"]
+friendName,friendName,xpath,,//ANDROID.widget.EditText[@resource-id="za.co.neolabs.bankzero:id/invite_friend_name"],//XCUIElementTypeTextField[@value="Friend name"]
+cellNo,cellN0,xpath,,//android.widget.EditText[@resource-id="za.co.neolabs.bankzero:id/invite_friend_cellno"],//XCUIElementTypeTextField[@value="Cell number"]
+addButton,addButton,xpath,,//android.widget.Button[@resource-id="za.co.neolabs.bankzero:id/btnConfirm"],//XCUIElementTypeButton[@name="Add"]
+confirmButton,confirmButton,xpath,,//android.widget.Button[@resource-id="za.co.neolabs.bankzero:id/btnConfirm"],//XCUIElementTypeButton[@name="Confirm"]
+confirmMessage,confirmMessage,xpath,,//android.widget.LinearLayout[@resource-id="za.co.neolabs.bankzero:id/content"]/android.widget.LinearLayout/android.widget.LinearLayout[2],//XCUIElementTypeStaticText[@name="Confirmed: Friend Gift with number 0860345901 invited"]
+Finish,Finish,xpath,,//android.widget.Button[@resource-id="za.co.neolabs.bankzero:id/btnConfirm"],//XCUIElementTypeButton[@name="Finish"]
+itemDescription,itemDescription,xpath,,//android.widget.TextView[@resource-id="za.co.neolabs.bankzero:id/itemDescription"],//XCUIElementTypeStaticText[@name="Invited 0860345901"]
+itemDescrip,itemDescrip,xpath,,//android.widget.TextView[@resource-id="za.co.neolabs.bankzero:id/itemDescription"],//XCUIElementTypeStaticText[@name="Invited 0790909008"]
+tabFriend,Tabfriend,xpath,,//android.widget.TextView[@resource-id="za.co.neolabs.bankzero:id/titleText"],//XCUIElementTypeCell/XCUIElementTypeOther[1]/XCUIElementTypeOther
+binIcon,binIcon,xpath,,//android.widget.ImageView[@resource-id="za.co.neolabs.bankzero:id/mnu_deleteFriend"],//XCUIElementTypeImage[@name="ic_delete_wc_bin"]
+message,message,xpath,,//android.widget.TextView[@resource-id="android:id/message"],//XCUIElementTypeStaticText[@name="Friend Gift with number 0860345901 will be unfriended. Confirm?"]
+messag,messag,xpath,,//android.widget.TextView[@resource-id="android:id/message"],//XCUIElementTypeStaticText[@name="Friend Gift with number 0860345901 will be unfriended. Confirm?"]
+messa,messa,xpath,,//android.widget.TextView[@resource-id="android:id/message"],//XCUIElementTypeStaticText[@name="Friend Phil with number 0790909008 will be unfriended. Confirm?"]
+Yesbtn,Yesbtn,xpath,,//android.widget.Button[@resource-id="android:id/button1"],//XCUIElementTypeButton[@name="Yes"]
+yesBtn,yesBtn,xpath,,,(//XCUIElementTypeOther[@name="Horizontal scroll bar, 1 page"])[5]
+itemDescription,itemDescription,xpath,,//android.widget.TextView[@resource-id="za.co.neolabs.bankzero:id/itemDescription"],//XCUIElementTypeStaticText[@name="Invited 0860345901"]
+tabFriend,Tabfriend,xpath,,//android.widget.TextView[@resource-id="za.co.neolabs.bankzero:id/titleText"],//XCUIElementTypeCell/XCUIElementTypeOther[1]/XCUIElementTypeOther
+binIcon,binIcon,xpath,,//android.widget.ImageView[@resource-id="za.co.neolabs.bankzero:id/mnu_deleteFriend"],//XCUIElementTypeImage[@name="ic_delete_wc_bin"]
+message,message,xpath,,//android.widget.TextView[@resource-id="android:id/message"],//XCUIElementTypeStaticText[@name="Friend Gift with number 0860345901 will be unfriended. Confirm?"]
+Yesbtn,Yesbtn,xpath,,//android.widget.Button[@resource-id="android:id/button1"],//XCUIElementTypeButton[@name="Yes"]
+MainAccountDots,MainAccountDots,xpath,,(//android.widget.ImageView[@resource-id="za.co.neolabs.bankzero:id/tileMenu"])[1],
+BusinessAccountDots,BusinessAccountDots,xpath,,(//android.widget.ImageView[@resource-id="za.co.neolabs.bankzero:id/tileMenu"])[9],

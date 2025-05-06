@@ -1,0 +1,4 @@
+
+Test_Case_Id,Test_Case_Description,LoginInPin0,LoginInPin1,LoginInPin2,LoginInPin3,LoginInPin4,Profiles,TypeOfAccount,RegisteredName,SICgroup,SICindustry,Income,wealth,OtherSpecify,Email,Ownership,AddressType,OfficeName,road,Suburb/City,AppPin0,AppPin1,AppPin2,AppPin3,AppPin4,CardPin0,CardPin1,CardPin2,CardPin3,CardPin4,AddressTypeNot
+1,Same as registered address ,3,0,3,0,3,Nicholas,VerticalBusinessDots,BankZero,Manufacturing,Manufacturing of beverages,Interest,Donations,Management fees,khozanico@gmail.com,Own property,House,Hezeldean,OUKRAAL,Pretoria,3,0,3,0,3,3,0,3,0,3,Office
+2,not same registered address ,3,0,3,0,3,Nicholas,VerticalBusinessDots,BankZero,Manufacturing,Manufacturing of beverages,Interest,Donations,Management fees,khozanico@gmail.com,Own property,House,Hezeldean,OUKRAAL,Pretoria,3,0,3,0,3,3,0,3,0,3,Office

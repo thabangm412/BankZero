@@ -1,0 +1,10 @@
+Test_Case_Id,Test_Case_Description,LoginInPin0,LoginInPin1,LoginInPin2,LoginInPin3,LoginInPin4,Profiles,LocalDailyCash,GlobalDailyCash,MaxPurchaseAmount,staffName,CellNo,TypeOfATM,PinForSmallAmounts,YourPin,AccountNo,cardPanNo,cardExpireDate,BranchCode,On/OffStatus,ExpectedLocalDailyCash,ExpectedGlobalDailyCash,ExpectedMaxPurchaseAmount
+1,Unlock Card,1,1,1,1,1,Miching,,,,,,,ACCEPT,,,,,,Active,300.00,6 000.00,50 000.00
+2,Lock Card,1,1,1,1,1,Michi,,,,,,,,,,,,,Locked,300.00,6 000.00,50 000.00
+3,allow ATM withdrawals,1,1,1,1,1,Mpho,,,,,,Always on,,,,,,,,
+4,Disallow ATM withdrawals,1,1,1,1,1,Mpho,,,,,,Always off,,,,,,,,
+5,Allow one ATM cash withdrawal,1,1,1,1,1,Mpho,,,,,,1 cash,,,,,,,,
+6,Set the local/global withdrawal limit,1,1,1,1,1,Mpho,300.00,6000.00,,,,,,,,,,,,R300.00,R6 000.00,
+7,Set the online purchase limit,1,1,1,1,1,Mpho,,,50000.00,,,,,,,,,,,,,R50 000.00
+8,View Card & Pin,1,1,1,1,1,Mpho,,,,Mpho Masinga,0865512000,,,Your PIN is 11111,82000077406,2265 0834 9256 6559,11/32 ,888000,,400.00,6 000.00,50 000.00
+,,,,,,,,,,,,,,,,,,

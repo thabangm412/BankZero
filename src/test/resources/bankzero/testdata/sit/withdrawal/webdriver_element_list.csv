@@ -1,0 +1,43 @@
+Record_Id ,Description,WebDriver_Element_Selector_Type,WebDriver_Element_Selector_Value ,Android_WebDriver_Element_Selector_Value,IOS_WebDriver_Element_Selector_Value
+LoginInPin0,Login In Pin 0,xpath,,//android.widget.EditText[@resource-id='za.co.neolabs.bankzero:id/login_pin_0_0_0'],//XCUIElementTypeWindow/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeSecureTextField[1]
+LoginInPin1,Login In Pin 1,xpath,,//android.widget.EditText[@resource-id='za.co.neolabs.bankzero:id/login_pin_0_0_1'],//XCUIElementTypeWindow/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeSecureTextField[2]
+LoginInPin2,Login In Pin 2,xpath,,//android.widget.EditText[@resource-id='za.co.neolabs.bankzero:id/login_pin_0_0_2'],//XCUIElementTypeWindow/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeSecureTextField[3]
+LoginInPin3,Login In Pin 3,xpath,,//android.widget.EditText[@resource-id='za.co.neolabs.bankzero:id/login_pin_0_0_3'],//XCUIElementTypeWindow/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeSecureTextField[4]
+LoginInPin4,Login In Pin 4,xpath,,//android.widget.EditText[@resource-id='za.co.neolabs.bankzero:id/login_pin_0_0_4'],//XCUIElementTypeWindow/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeSecureTextField[5]
+VerticalDots7,VerticalDots7,xpath, ,(//android.widget.ImageView[@resource-id="za.co.neolabs.bankzero:id/tileMenu"])[3],(//XCUIElementTypeImage[@name='vertical-dots'])[3]
+Withdraw,Withdraw,xpath,,//android.widget.TextView[@resource-id="za.co.neolabs.bankzero:id/menuItemText" and @text="Withdraw"],//XCUIElementTypeStaticText[@name="Withdraw"]
+AmountButton,AmountButton,xpath,,//android.widget.EditText[@resource-id="za.co.neolabs.bankzero:id/amount"],//XCUIElementTypeTextField[@value="Amount"]
+AmountEdit,AmountEdit,xpath,,//android.widget.EditText[@resource-id="za.co.neolabs.bankzero:id/amount"],//XCUIElementTypeTextField[@value="Amount"]
+ReferenceButton,ReferenceButton,xpath,,//android.widget.EditText[@resource-id="za.co.neolabs.bankzero:id/reference"],//XCUIElementTypeTextField[@value="Reference"]
+ReferenceEdit,ReferenceEdit,xpath,,//android.widget.EditText[@resource-id="za.co.neolabs.bankzero:id/reference"],//XCUIElementTypeTextField[@value="Reference"]
+WithdrawMoney,WithdrawMoney,xpath,,//android.widget.Button[@resource-id="za.co.neolabs.bankzero:id/btnSubmit"],//XCUIElementTypeButton[@name="Withdraw"]
+BackButton,BackButton,xpath,,//android.widget.ImageButton[@content-desc="Navigate up"],
+AmountEdit2,AmountEdit2,xpath,,//android.widget.EditText[@resource-id="za.co.neolabs.bankzero:id/amount"],
+ConfirmWithdrwal,ConfirmWithdrwal,xpath,,//android.widget.Button[@resource-id="za.co.neolabs.bankzero:id/btnSubmit"],//XCUIElementTypeButton[@name="Confirm"]
+AssertionPassed,AssertionPassed,xpath,,//android.widget.TextView[@text="Confirmed:"],//XCUIElementTypeStaticText[@name="Confirmed: • You are withdrawing R2.00 from your Zipho • Your money will be available on 11 Oct 24 Fri in your Philile account"]
+AssertionPassed1,AssertionPassed,xpath,,//android.widget.TextView[@text="Confirmed:"],//XCUIElementTypeStaticText[@name="Confirmed: • You are withdrawing R2.00 from your Anele • Your money will be available on 05 Nov 24 Tue in your Philile account"]
+AssertionPassed2,AssertionPassed,xpath,,//android.widget.TextView[@text="Confirmed:"],//XCUIElementTypeStaticText[@name="Confirmed: • You are withdrawing R2.00 from your Ziyanda • Your money will be available on 18 Nov 24 Mon in your Philile account"]
+AssertionFail,AssertionFail,xpath,,//android.widget.TextView[@text="Confirmed:"],//XCUIElementTypeStaticText[@name="Please check the amount to withdraw"]
+Finish,Finish,xpath,,//android.widget.Button[@resource-id="za.co.neolabs.bankzero:id/btnSubmit"],//XCUIElementTypeButton[@name="Finish"]
+Exit,Exit,xpath,,//android.widget.ImageView[@resource-id="za.co.neolabs.bankzero:id/mnu_exit"],
+Assertionfail,Assertionfail,xpath,,//android.widget.TextView[@text='Please check the amount to withdraw',
+BusinessAccountDots32,BusinessAccountDots32,xpath,,(//android.widget.ImageView[@resource-id="za.co.neolabs.bankzero:id/tileMenu"])[8],(//XCUIElementTypeImage[@name='vertical-dots'])[4]
+BusinessAccountDots45,BusinessAccountDots45,xpath,,(//android.widget.ImageView[@resource-id="za.co.neolabs.bankzero:id/tileMenu"])[7],(//XCUIElementTypeImage[@name='vertical-dots'])[6]
+BusinessAccountDots7,BusinessAccountDots7,xpath, ,(//android.widget.ImageView[@resource-id="za.co.neolabs.bankzero:id/tileMenu"])[5],
+Withdraw,Withdraw,xpath,,//android.widget.TextView[@resource-id="za.co.neolabs.bankzero:id/menuItemText" and @text="Withdraw"],
+AmountButton,AmountButton,xpath,,//android.widget.EditText[@resource-id="za.co.neolabs.bankzero:id/amount"],
+AmountEdit,AmountEdit,xpath,,//android.widget.EditText[@resource-id="za.co.neolabs.bankzero:id/amount"],
+ReferenceButton,ReferenceButton,xpath,,//android.widget.EditText[@resource-id="za.co.neolabs.bankzero:id/reference"],
+ReferenceEdit,ReferenceEdit,xpath,,//android.widget.EditText[@resource-id="za.co.neolabs.bankzero:id/reference"],
+WithdrawMoney,WithdrawMoney,xpath,,//android.widget.Button[@resource-id="za.co.neolabs.bankzero:id/btnSubmit"],
+BackButton,BackButton,xpath,,//android.widget.ImageButton[@content-desc="Navigate up"],
+AmountEdit2,AmountEdit2,xpath,,//android.widget.EditText[@resource-id="za.co.neolabs.bankzero:id/amount"],
+ConfirmWithdrwal,ConfirmWithdrwal,xpath,,//android.widget.Button[@resource-id="za.co.neolabs.bankzero:id/btnSubmit"],
+AssertionPassed,AssertionPassed,xpath,,//android.widget.TextView[@text="Confirmed:"],
+Finish,Finish,xpath,,//android.widget.Button[@resource-id="za.co.neolabs.bankzero:id/btnSubmit"],
+Exit,Exit,xpath,,//android.widget.ImageView[@resource-id="za.co.neolabs.bankzero:id/mnu_exit"],
+Assertionfail,Assertionfail,xpath,,//android.widget.TextView[@text='Please check the amount to withdraw',
+VerticalDots32,VerticalDots32,xpath,,(//android.widget.ImageView[@resource-id="za.co.neolabs.bankzero:id/tileMenu"])[4],
+VerticalDots45,VerticalDots45,xpath,,(//android.widget.ImageView[@resource-id="za.co.neolabs.bankzero:id/tileMenu"])[6],
+CheckBox,CheckBox,xpath,,//android.widget.CheckedTextView[@resource-id="za.co.neolabs.bankzero:id/sooner_notice"],
+NegativeAmount,NegativeAmount,xpath,,//android.widget.TextView[@resource-id="za.co.neolabs.bankzero:id/limits"],

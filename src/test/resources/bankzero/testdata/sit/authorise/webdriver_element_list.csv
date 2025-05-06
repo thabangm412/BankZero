@@ -1,0 +1,25 @@
+Record_Id ,Description,WebDriver_Element_Selector_Type,WebDriver_Element_Selector_Value,Android_WebDriver_Element_Selector_Value,IOS_WebDriver_Element_Selector_Value
+LoginInPin0,Login In Pin 0,xpath,,//android.widget.EditText[@resource-id='za.co.neolabs.bankzero:id/login_pin_0_0_0'],//XCUIElementTypeWindow/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeSecureTextField[1]
+LoginInPin1,Login In Pin 1,xpath,,//android.widget.EditText[@resource-id='za.co.neolabs.bankzero:id/login_pin_0_0_1'],//XCUIElementTypeWindow/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeSecureTextField[2]
+LoginInPin2,Login In Pin 2,xpath,,//android.widget.EditText[@resource-id='za.co.neolabs.bankzero:id/login_pin_0_0_2'],//XCUIElementTypeWindow/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeSecureTextField[3]
+LoginInPin3,Login In Pin 3,xpath,,//android.widget.EditText[@resource-id='za.co.neolabs.bankzero:id/login_pin_0_0_3'],//XCUIElementTypeWindow/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeSecureTextField[4]
+LoginInPin4,Login In Pin 4,xpath,,//android.widget.EditText[@resource-id='za.co.neolabs.bankzero:id/login_pin_0_0_4'],//XCUIElementTypeWindow/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeSecureTextField[5]
+VerticalBusinessDots,VerticalBusinessDots,xpath,,(//android.widget.ImageView[@resource-id="za.co.neolabs.bankzero:id/tileMenu"])[9],
+AuthoriseBtn,AuthoriseBtn,xpath,,//android.widget.TextView[@resource-id="za.co.neolabs.bankzero:id/menuItemText" and @text="Authorise"],
+CancelBtn,CancelBtn,xpath,,//android.widget.CheckBox[@resource-id="za.co.neolabs.bankzero:id/chk_reject_all"],
+Finish,Finish,xpath,,//android.widget.Button[@resource-id="za.co.neolabs.bankzero:id/submit_btn"],
+RightBtn,RightBtn,xpath,,//android.widget.CheckBox[@resource-id="za.co.neolabs.bankzero:id/chk_approve_all"],
+SubmitBtn,SubmitBtn,xpath,,//android.widget.Button[@resource-id="za.co.neolabs.bankzero:id/submit_btn"],
+Confirm,Confirm,xpath,,//android.widget.Button[@resource-id="za.co.neolabs.bankzero:id/submit_btn"],
+BtnPay,BtnPay,xpath,,//android.widget.TextView[@resource-id="za.co.neolabs.bankzero:id/menuItemText" and @text="Pay"],
+DropDownRecipient,DropDownRecipient,xpath,,//android.widget.TextView[@resource-id="android:id/text1"],
+EditAmount,EditAmount,xpath,,//android.widget.EditText[@resource-id="za.co.neolabs.bankzero:id/amount"],
+Reference,Reference,xpath,,//android.widget.EditText[@resource-id="za.co.neolabs.bankzero:id/reference"],
+VerticalDots,VerticalDots,xpath,,(//android.widget.ImageView[@resource-id="za.co.neolabs.bankzero:id/tileMenu"])[4],
+Pay,BtnPay,xpath,,//android.widget.Button[@resource-id="za.co.neolabs.bankzero:id/btnSubmit"],
+BtnConfirm,BtnConfirm,xpath,,//android.widget.Button[@resource-id="za.co.neolabs.bankzero:id/btnConfirm"],
+BtnFinish,BtnFinish,xpath,,//android.widget.Button[@resource-id="za.co.neolabs.bankzero:id/btnConfirm"],
+
+
+
+

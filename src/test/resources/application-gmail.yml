@@ -1,0 +1,25 @@
+debug: true
+
+spring:
+  mail:
+    host: 'smtp.gmail.com'
+    port: 25
+    username: 'username@gmail.com'
+    password: 'xxxxxx'
+    properties:
+      mail:
+        debug: true
+        transport:
+          protocol: smtp
+        smtp:
+          auth: true
+          connectiontimeout: 5000
+          timeout: 5000
+          writetimeout: 5000
+          starttls:
+            enable: true
+
+# SSL, post 465
+#spring.mail.properties.mail.smtp.socketFactory.port = 465
+#spring.mail.properties.mail.smtp.socketFactory.class = javax.net.ssl.SSLSocketFactory
+

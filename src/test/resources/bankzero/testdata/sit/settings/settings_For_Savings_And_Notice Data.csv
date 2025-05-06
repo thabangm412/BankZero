@@ -1,0 +1,9 @@
+Test_Case_Id,Test_Case_Description,LoginInPin0,LoginInPin1,LoginInPin2,LoginInPin3,LoginInPin4,Profiles,TypeOfAccount,EditAccountName,SearchForImage,AssertImage,ValidateTextImage,Status
+1,Settings for savings account change pic,1,2,3,4,5,Mpho,BusinessAccountDots,,20240814_084236.jpg,Images,Account image,Settings updated successfully
+2,Settings for savings account change name,1,2,3,4,5,Mpho,BusinessAccountDots,Savings Account,,Images,Account image,Settings updated successfully
+3,Settings for 7 Days Notice account change name,1,2,3,4,5,Mpho,BusinessAccountDots7,rainy dayss,,Images,Account image,Settings updated successfully
+4,Settings for 7 Days Notice account change pic,1,2,3,4,5,Mpho,BusinessAccountDots7,,20241009_061304.jpg,Images,Account image,Settings updated successfully
+5,Settings for 32 Days Notice account change name,1,2,3,4,5,Mpho,BusinessAccountDots32,pocket money,,Images,Account image,Settings updated successfully
+6,Settings for 32 Days Notice account chane pic,1,2,3,4,5,Mpho,BusinessAccountDots32,,20241019_091427.jpg,Images,Account image,Settings updated successfully
+7,Settings for 45 Days Notice account change pic,1,2,3,4,5,Mpho,BusinessAccountDots45,,20241009_061304.jpg,Images,Account image,Settings updated successfully
+8,Settings for 45 Days Notice account change name,1,2,3,4,5,Mpho,BusinessAccountDots45,installment,,Images,Account image,Settings updated successfully

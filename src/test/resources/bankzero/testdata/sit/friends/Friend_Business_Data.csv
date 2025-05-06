@@ -1,0 +1,3 @@
+Test_Case_Id,Test_Case_Description,LoginInPin0,LoginInPin1,LoginInPin2,LoginInPin3,LoginInPin4,Profiles,friendName,cellNo,Status
+1,user invite  friend,3,0,3,0,3,nico,Khanya Gwane,0824090883,Confirmed:
+2,user delete friend,3,0,3,0,3,nico,,,

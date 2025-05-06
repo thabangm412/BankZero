@@ -1,0 +1,143 @@
+Record_Id ,Description,WebDriver_Element_Selector_Type,WebDriver_Element_Selector_Value,Android_WebDriver_Element_Selector_Value,IOS_WebDriver_Element_Selector_Value
+LoginInPin0,Login In Pin 0,xpath,,//android.widget.EditText[@resource-id='za.co.neolabs.bankzero:id/login_pin_0_0_0'],//XCUIElementTypeWindow/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeSecureTextField[1]
+LoginInPin1,Login In Pin 1,xpath,,//android.widget.EditText[@resource-id='za.co.neolabs.bankzero:id/login_pin_0_0_1'],//XCUIElementTypeWindow/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeSecureTextField[2]
+LoginInPin2,Login In Pin 2,xpath,,//android.widget.EditText[@resource-id='za.co.neolabs.bankzero:id/login_pin_0_0_2'],//XCUIElementTypeWindow/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeSecureTextField[3]
+LoginInPin3,Login In Pin 3,xpath,,//android.widget.EditText[@resource-id='za.co.neolabs.bankzero:id/login_pin_0_0_3'],//XCUIElementTypeWindow/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeSecureTextField[4]
+LoginInPin4,Login In Pin 4,xpath,,//android.widget.EditText[@resource-id='za.co.neolabs.bankzero:id/login_pin_0_0_4'],//XCUIElementTypeWindow/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeSecureTextField[5]
+PlusSign,PlusSign,xpath,,(//android.widget.ImageView[@resource-id="za.co.neolabs.bankzero:id/tile_image"])[3],
+NewBusiness,NewBusiness,xpath,,//android.widget.TextView[@resource-id="za.co.neolabs.bankzero:id/add_business_text"],
+Pty(Ltd),Pty(Ltd),xpath,,//android.widget.TextView[@resource-id="za.co.neolabs.bankzero:id/expanded_list_text" and @text="Pty (Ltd)"],
+SICGroup,SICGroup,xpath,,(//android.widget.TextView[@resource-id="android:id/text1"])[1],
+SICIndustry,SICIndustry,xpath,,(//android.widget.TextView[@resource-id="android:id/text1"])[2],
+SourceOfFunds,SourceOfFunds,xpath,,//android.widget.ImageView[@resource-id="za.co.neolabs.bankzero:id/sof_pencil"],
+okBtn,okBtn,xpath,,//android.widget.Button[@resource-id="za.co.neolabs.bankzero:id/submit_btn"],
+nextBtn,nextBtn,xpath,,//android.widget.Button[@resource-id="za.co.neolabs.bankzero:id/submit_btn"],
+TradingName,TradingName,xpath,,//android.widget.EditText[@resource-id="za.co.neolabs.bankzero:id/trading_as_input"],
+RegisteredName,RegisteredName,xpath,,//android.widget.EditText[@resource-id="za.co.neolabs.bankzero:id/registeredname_input"],
+TaxNo,TaxNo,xpath,,//android.widget.EditText[@resource-id="za.co.neolabs.bankzero:id/trading_tax_number"],
+VatNo,VatNo,xpath,,//android.widget.EditText[@resource-id="za.co.neolabs.bankzero:id/trading_vat_number"],
+SourceOfWealth,SourceOfWealth,xpath,,//android.widget.ImageView[@resource-id="za.co.neolabs.bankzero:id/taptoedit_wealth"],
+NotifyEmail,NotifyEmail,xpath,,//android.widget.EditText[@resource-id="za.co.neolabs.bankzero:id/trading_email_address"],
+registeredOwnership,registeredOwnership,xpath,,//android.widget.Spinner[@resource-id="za.co.neolabs.bankzero:id/registeredOwnership"],
+registeredAddress,registeredAddress,xpath,,//android.widget.Spinner[@resource-id="za.co.neolabs.bankzero:id/registeredAddressType"],
+StreetNameAndNo,StreetNameAndNo,xpath,,//android.widget.EditText[@resource-id="za.co.neolabs.bankzero:id/selected_registered_address_2"],
+Suburb/City,Suburb/City,xpath,,//android.widget.AutoCompleteTextView[@resource-id="za.co.neolabs.bankzero:id/selected_registered_address_3"],
+selectProvince,selectProvince,xpath,,//android.widget.TextView[@resource-id="android:id/text1" and @text="Select province"],
+PostalCode,PostalCode,xpath,,//android.widget.EditText[@resource-id="za.co.neolabs.bankzero:id/selected_registered_address_4"],
+selectCardOption,selectCardOption,xpath,,//android.widget.TextView[@resource-id="android:id/text1"],
+dontWantCard,dontWantCard,xpath,,//android.widget.TextView[@resource-id="android:id/text1" and @text="Don't want card"],
+OwnerPreferedName,OwnerPreferedName,xpath,,//android.widget.EditText[@resource-id="za.co.neolabs.bankzero:id/_inputText"],
+Nationality,Nationality,xpath,,//android.widget.RelativeLayout[@resource-id="za.co.neolabs.bankzero:id/country_layout"],
+NationalityDropdown,NationalityDropdown,xpath,,//android.widget.TextView[@resource-id="android:id/text1"],
+OwnerCellNo,OwnerCellNo,xpath,,//android.widget.EditText[@resource-id="za.co.neolabs.bankzero:id/owner_phone"],
+addBtn,addBtn,xpath,,//android.widget.Button[@resource-id="za.co.neolabs.bankzero:id/btnConfirm"],
+addOwnerPlusSign,addOwnerPlusSign,xpath,,//android.widget.ImageView[@resource-id="za.co.neolabs.bankzero:id/action_1"],
+iAgreeCheckBox,iAgreeCheckBox,xpath,,//android.widget.CheckBox[@resource-id="za.co.neolabs.bankzero:id/tnc_checkbox"],
+confirmBtn,confirmBtn,xpath,,//android.widget.Button[@resource-id="za.co.neolabs.bankzero:id/submit_btn"],
+RegistrationNo,RegistrationNo,xpath,,//android.widget.EditText[@resource-id="za.co.neolabs.bankzero:id/trading_registration_no"],
+businessProceeds,businessProceeds,xpath,,//android.widget.TextView[@resource-id="za.co.neolabs.bankzero:id/listItemText" and @text="Business proceeds"],
+interest,interest,xpath,,//android.widget.TextView[@resource-id="za.co.neolabs.bankzero:id/listItemText" and @text="Interest"],
+sourceOfWealth,sourceOfWealth,xpath,,//android.widget.ImageView[@resource-id="za.co.neolabs.bankzero:id/taptoedit_wealth"],
+addressNextBtn,addressNextBtn,xpath,,//android.widget.Button[@resource-id="za.co.neolabs.bankzero:id/submit_btn" and @text="Next"],
+estateName,estateName,xpath,,//android.widget.EditText[@resource-id="za.co.neolabs.bankzero:id/selected_registered_address_1"],
+unmarkCheckBox,unmarkCheckBox,xpath,,//android.widget.CheckBox[@resource-id="za.co.neolabs.bankzero:id/physical_checkbox"],
+tradingAddressType,tradingAddressType,xpath,,//android.widget.Spinner[@resource-id="za.co.neolabs.bankzero:id/physicalAddressType"],
+beneficialOwner,beneficialOwner,xpath,,//android.widget.TextView[@resource-id="za.co.neolabs.bankzero:id/role_title" and @text="Beneficial owner"],
+Director,Director,xpath,,//android.widget.TextView[@resource-id="za.co.neolabs.bankzero:id/role_title" and @text="Director"],
+Shareholder,Shareholder,xpath,,//android.widget.TextView[@resource-id="za.co.neolabs.bankzero:id/role_title" and @text="Shareholder"],
+entityName,entityName,xpath,,//android.widget.TextView[@resource-id="za.co.neolabs.bankzero:id/entity_name"],
+businessName,businessName,xpath,,//android.widget.TextView[@resource-id="za.co.neolabs.bankzero:id/businessName_text"],
+businessType,businessType,xpath,,//android.widget.TextView[@resource-id="za.co.neolabs.bankzero:id/businesstype_text"],
+Industry,Industry,xpath,,//android.widget.TextView[@resource-id="za.co.neolabs.bankzero:id/sic_industry_text"],
+ownership,ownership,xpath,,//android.widget.TextView[@resource-id="za.co.neolabs.bankzero:id/property_ownership_text"],
+accountType,accountType,xpath,,//android.widget.TextView[@resource-id="za.co.neolabs.bankzero:id/account_type"],
+branchCode,branchCode,xpath,,//android.widget.TextView[@resource-id="za.co.neolabs.bankzero:id/account_bc_branch"],
+ownerPreferedName,ownerPreferedName,xpath,,//android.widget.TextView[@text="Thomas"],
+finishBtn,finishBtn,xpath,,//android.widget.Button[@resource-id="za.co.neolabs.bankzero:id/submit_btn"],
+ClosedCorporations,ClosedCorporations,xpath,,//android.widget.TextView[@resource-id="za.co.neolabs.bankzero:id/expanded_list_text" and @text="Closed Corporations"],
+Authoriser,Authoriser,xpath,,//android.widget.TextView[@resource-id="za.co.neolabs.bankzero:id/role_title" and @text="Authoriser"],
+MandatedOfficial,MandatedOfficial,xpath,,//android.widget.TextView[@resource-id="za.co.neolabs.bankzero:id/role_title" and @text="Mandated Official"],
+Member,Member,xpath,,//android.widget.TextView[@resource-id="za.co.neolabs.bankzero:id/role_title" and @text="Member"],
+accountStatus,accountStatus,xpath,,//android.widget.TextView[@text="Account created Success"],
+SoleOwner,SoleOwner,xpath,,//android.widget.TextView[@resource-id="za.co.neolabs.bankzero:id/expanded_list_text" and @text="Sole Owner"],
+TradingAs,TradingAs,xpath,,//android.widget.EditText[@resource-id="za.co.neolabs.bankzero:id/registeredname_input"],
+BasicPartnership,BasicPartnership,xpath,,//android.widget.TextView[@resource-id="za.co.neolabs.bankzero:id/expanded_list_text" and @text="Basic Partnership"],
+PartnerShipName,PartnerShipName,xpath,,//android.widget.EditText[@resource-id="za.co.neolabs.bankzero:id/registeredname_input"],
+Partner,Partner,xpath,,//android.widget.TextView[@resource-id="za.co.neolabs.bankzero:id/role_title" and @text="Partner"],
+IncorporatedPartnership,IncorporatedPartnership,xpath,,//android.widget.TextView[@resource-id="za.co.neolabs.bankzero:id/expanded_list_text" and @text="Incorporated Partnership"],
+NPC,NPC,xpath,,//android.widget.TextView[@resource-id="za.co.neolabs.bankzero:id/expanded_list_text" and @text="NPI per companies act (NPC)"],
+OrganisationName,OrganisationName,xpath,,//android.widget.EditText[@resource-id="za.co.neolabs.bankzero:id/registeredname_input"],
+Incorporator,Incorporator,xpath,,//android.widget.TextView[@resource-id="za.co.neolabs.bankzero:id/role_title" and @text="Incorporator"],
+addAsDirector,addAsDirector,xpath,,(//android.widget.TextView[@resource-id="za.co.neolabs.bankzero:id/required_text2"])[1],
+addAsIncorporator,addAsIncorporator,xpath,,(//android.widget.TextView[@resource-id="za.co.neolabs.bankzero:id/required_text3"])[1],
+addOwner2PlusSign,addOwner2PlusSign,xpath,,(//android.widget.ImageView[@resource-id="za.co.neolabs.bankzero:id/action_1"])[2],
+Owner2PreferedName,Owner2PreferedName,xpath,,//android.widget.EditText[@resource-id="za.co.neolabs.bankzero:id/_inputText"],
+Owner2CellNo,Owner2CellNo,xpath,,//android.widget.EditText[@resource-id="za.co.neolabs.bankzero:id/owner_phone"],
+NPT,NPT,xpath,,//android.widget.TextView[@resource-id="za.co.neolabs.bankzero:id/expanded_list_text" and @text="NPI as charitable trust (NPT)"],
+addAsMember,addAsMember,xpath,,(//android.widget.TextView[@resource-id="za.co.neolabs.bankzero:id/required_text3"])[1],
+selectFromAcoount,selectFromAcoount,xpath,,//android.widget.TextView[@resource-id="za.co.neolabs.bankzero:id/accountName"],
+Kay,Kay,xpath,,//android.widget.TextView[@resource-id="za.co.neolabs.bankzero:id/accountName" and @text="Kay"],
+ProfileKay,ProfileKay,xpath,,//android.widget.TextView[@resource-id="za.co.neolabs.bankzero:id/item" and @text="Kay"],
+BusinessThreeDots,BusinessThreeDots,xpath,,(//android.widget.ImageView[@resource-id="za.co.neolabs.bankzero:id/tileMenu"])[7],
+FICADocuments,FICADocuments,xpath,,//android.widget.TextView[@resource-id="za.co.neolabs.bankzero:id/menuItemText" and @text="FICA Documents"],
+resolutionPlusSign,attachPlusSign,xpath,,(//android.widget.ImageView[@resource-id="za.co.neolabs.bankzero:id/attach_clip"])[1],
+Upload,Upload,xpath,,//android.widget.ImageButton[@resource-id="za.co.neolabs.bankzero:id/btn_upload_image"],
+FICADocuments,FICADocuments,xpath,,//android.widget.TextView[@resource-id="za.co.neolabs.bankzero:id/menuItemText" and @text="FICA Documents"],
+resolutionPlusSign,attachPlusSign,xpath,,(//android.widget.ImageView[@resource-id="za.co.neolabs.bankzero:id/attach_clip"])[1],
+Upload,Upload,xpath,,//android.widget.ImageButton[@resource-id="za.co.neolabs.bankzero:id/btn_upload_image"],
+selectFromAccountDropdown,selectFromAccountDropdown,xpath,,//android.widget.TextView[@resource-id="za.co.neolabs.bankzero:id/accountName"],
+UploadBtn,UploadBtn,xpath,,//android.widget.Button[@resource-id="za.co.neolabs.bankzero:id/submit_btn"],
+proofPlusSign,proofPlusSign,xpath,,(//android.widget.ImageView[@resource-id="za.co.neolabs.bankzero:id/attach_clip"])[2],
+backArrow,backArrow,xpath,,//android.widget.ImageButton[@content-desc="Navigate up"],
+proofDocument,proofDocument,xpath,,//android.widget.TextView[@resource-id="android:id/title"]
+resolutionDocument,resolutionDocument,xpath,,//android.widget.TextView[@resource-id="android:id/title"],
+Search,Search,xpath,,//android.widget.Button[@content-desc="Search"],
+ProofSearchBox,ProofSearchBox,xpath,,//android.widget.AutoCompleteTextView[@resource-id="com.google.android.documentsui:id/search_src_text"],
+ResolutionSearchBox,ResolutionSearchBox,xpath,,//android.widget.AutoCompleteTextView[@resource-id="com.google.android.documentsui:id/search_src_text"],
+BeneficialSearchBox,BeneficialSearchBox,xpath,,//android.widget.AutoCompleteTextView[@resource-id="com.google.android.documentsui:id/search_src_text"],
+ProofPlusSign,ProofPlusSign,xpath,,(//android.widget.ImageView[@resource-id="za.co.neolabs.bankzero:id/attach_clip"])[1],
+ResolutionPlusSign,ResolutionPlusSign,xpath,,(//android.widget.ImageView[@resource-id="za.co.neolabs.bankzero:id/attach_clip"])[2],
+BeneficialPlusSign,BeneficialPlusSign,xpath,,(//android.widget.ImageView[@resource-id="za.co.neolabs.bankzero:id/attach_clip"])[3],
+BeneficialDocument,BeneficialDocument,xpath,,//android.widget.TextView[@resource-id="android:id/title" and @text="images (1).jpeg"],
+UploadBtn,UploadBtn,xpath,,//android.widget.Button[@resource-id="za.co.neolabs.bankzero:id/submit_btn"],
+Username,Username,name,name,
+Password,Password,name,password,
+UsernameTl,UsernameTl,name,name,
+Login Button,Login Button,name,button,
+freeFormatTextbox,freeFormatTextbox,xpath,//*[@id="cddcomment"],
+Navbar Dropdown,Navbar Dropdown,id,navbarDropdown,
+CDD Business,CDD Business,xpath,//a[text()='CDD-Business'],
+Enter search key,Enter search key,id,mat-input-0,
+Enter search key2,Enter search key,xpath,//input[@data-placeholder='Enter search key']
+CustomerName,Customer Phone,id,mat-input-0,
+Claim,Claim,xpath,"//button[contains(text(), 'claim')]",
+Check Box,Check Box,xpath,"//input[contains(@id, 'mat-checkbox-')]",
+Select,Select,xpath,"//button[contains(text(), 'Select')]",
+NoDataFound,NoDataFound,xpath,"//*[contains(text(),'No Data Found')]",
+All Task,All Task,xpath,"//span[contains(@class, 'mat-select-placeholder') and contains(@class, 'mat-select-min-line')]"
+AssignedToMe,AssignedToMe,xpath,"//span[contains(text(),'Assigned to me')]"
+documentForBasicBusinessBtn,documentForBasicBusinessBtn,xpath,//button[img[@type='file']]
+document1Btn,document1Btn,xpath,(//BUTTON[./DIV/IMG])[1]
+document2Btn,document2Btn,xpath,//img[@type='file']
+document3Btn,document3Btn,xpath,(//BUTTON[./DIV/IMG])[2]
+acceptDocumentBtn,acceptDocumentBtn,xpath,"//button[contains(text(),'Accept Document')]"
+closeBtn,closeBtn,xpath,//button[@aria-label='Close']
+searchBtn,searchBtn,xpath,//button[@class='gsc-search-button gsc-search-button-v2']
+ApproveKYCBtn,ApproveKYCBtn,xpath,"//button[contains(text(),'Approve KYC')]"
+closeSearchBtn,closeSearchBtn,xpath,//div[@class='gsc-results-close-btn gsc-results-close-btn-visible']
+routeForApprovalbtn,routeForApprovalbtn,xpath,"//button[contains(text(),'Route for Approval')]"
+ReasonToRouteApproval,ReasonToRouteApproval,xpath,//textarea[@id='comment']
+Route-KYC,Route-KYC,xpath,"//span[contains(text(),'Route-KYC')]"
+logOut,logOut,xpath,//a[text()='Logout']
+CalculateFinalRiskRating,Calculate Final Risk Rating,xpath,"//button[contains(text(),'Calculate Final Risk Rating')]"
+ViewBtn,ViewBtn,xpath,//a[text()='view']
+expandTitle,expandTitle,xpath,//span[text()='ResultId']
+falsePositiveAll,falsePositiveAll,xpath,//span[text()='False Positive-ALL']
+commentTextboxTl,commentTextbox,xpath,//textarea[@placeholder='Write your comment..']
+FALSE_POSITIVE,FALSE_POSITIVE,xpath,//span[@class='mat-button-wrapper' and text()='FALSE_POSITIVE']
+closingAlert,closingAlert,xpath,"//*[contains(text(),'Closing Alert.Please wait...')]",
+pleasewait,pleasewait,xpath,"//*[contains(text(),'please wait..')]"
+Docu1,Docu1,xpath,"(//button[@_ngcontent-crs-c252='']/div[@_ngcontent-crs-c252='' and contains(@class, 'ng-star-inserted')])[1]"
+Docu2,Docu2,xpath,"(//button[@_ngcontent-crs-c252='']/div[@_ngcontent-crs-c252='' and contains(@class, 'ng-star-inserted')])[2]"
+
+

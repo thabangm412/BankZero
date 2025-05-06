@@ -1,0 +1,20 @@
+
+udid: 'RF8N7394ZSA'
+bundleId: 'com.bankzero.ios'
+android:
+  browserName: 'chrome'
+  app: '"C:\Users\mkhiz\Downloads\app-dev-0.9.9.31-rc12.apk"'
+  appPackage:  'za.co.neolabs.bankzero'
+  appActivity: 'za.co.neolabs.bankzero.SplashActivity'
+  noReset: true
+  fullReset: false
+  autoGrantPermissions: true
+ios:
+  autoAcceptAlerts: true
+server:
+  url: 'http://127.0.0.1:4723/'
+device:
+  name: 'sumsung SM-A135F'
+platform:
+  name: android
+  version: 33

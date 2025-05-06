@@ -1,0 +1,13 @@
+appium:
+  driver:
+    platform_name: 'IOS'
+  udid: '00008110-0018182E368A801E'
+  ios:
+    bundleId: 'com.bankzero.ios'
+  server:
+    url: 'http://127.0.0.1:4723/'
+  device:
+    name: 'iphone 13 Pro Max'
+  platform:
+    name: 'IOS'
+    version: '17.3'

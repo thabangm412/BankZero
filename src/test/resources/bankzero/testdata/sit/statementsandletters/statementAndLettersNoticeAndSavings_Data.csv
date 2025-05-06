@@ -1,0 +1,6 @@
+Test_Case_Id,Test_Case_Description,LoginInPin0,LoginInPin1,LoginInPin2,LoginInPin3,LoginInPin4,TypeOfDocument,selectPeriod,EmailMessage
+1,Statement and Letters on notice 7 days notice,1,1,1,1,1,AccountStatement,October-2024,Email sent successful. Please check your inbox
+2,Statement and Letters on notice 32 days notice,1,1,1,1,1,AccountStatement,October-2024,Email sent successful. Please check your inbox
+3,Statement and Letters on notice 45 days notice,1,1,1,1,1,AccountStatement,October-2024,Email sent successful. Please check your inbox
+4,Statement and Letters on savings account,1,1,1,1,1,AccountStatement,October-2024,Email sent successful. Please check your inbox
+

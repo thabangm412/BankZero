@@ -1,0 +1,29 @@
+Record_Id ,Description,WebDriver_Element_Selector_Type,WebDriver_Element_Selector_Value ,Android_WebDriver_Element_Selector_Value,IOS_WebDriver_Element_Selector_Value
+LoginInPin0,Login In Pin 0,xpath,,//android.widget.EditText[@resource-id='za.co.neolabs.bankzero:id/login_pin_0_0_0'],//XCUIElementTypeWindow/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeSecureTextField[1]
+LoginInPin1,Login In Pin 1,xpath,,//android.widget.EditText[@resource-id='za.co.neolabs.bankzero:id/login_pin_0_0_1'],//XCUIElementTypeWindow/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeSecureTextField[2]
+LoginInPin2,Login In Pin 2,xpath,,//android.widget.EditText[@resource-id='za.co.neolabs.bankzero:id/login_pin_0_0_2'],//XCUIElementTypeWindow/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeSecureTextField[3]
+LoginInPin3,Login In Pin 3,xpath,,//android.widget.EditText[@resource-id='za.co.neolabs.bankzero:id/login_pin_0_0_3'],//XCUIElementTypeWindow/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeSecureTextField[4]
+LoginInPin4,Login In Pin 4,xpath,,//android.widget.EditText[@resource-id='za.co.neolabs.bankzero:id/login_pin_0_0_4'],//XCUIElementTypeWindow/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeSecureTextField[5]
+accountActivity,accountActivity,xpath,,"(//android.widget.TextView[@resource-id='za.co.neolabs.bankzero:id/accountBalance' and contains(@text, 'R')])[1]",
+accountName,accountName,xpath,,//android.widget.TextView[@resource-id="za.co.neolabs.bankzero:id/account_name"],
+recipientDropdown,recipientDropdown,xpath,,//android.widget.TextView[@resource-id="android:id/text1"],
+Amount,Amount,xpath,,//android.widget.EditText[@resource-id="za.co.neolabs.bankzero:id/amount"],
+Pay2,Pay2,xpath,,//android.widget.Button[@resource-id="za.co.neolabs.bankzero:id/btnSubmit"],
+confirmBtn,confirmBtn,xpath,,//android.widget.Button[@resource-id="za.co.neolabs.bankzero:id/btnConfirm"],
+finishBtn,finishBtn,xpath,,//android.widget.Button[@resource-id="za.co.neolabs.bankzero:id/btnConfirm"],
+pay,pay,xpath,,//android.widget.TextView[@resource-id="za.co.neolabs.bankzero:id/menuItemText" and @text="Pay"],
+Amount Tab,Amount Tab,xpath,,"(//android.widget.TextView[@resource-id='za.co.neolabs.bankzero:id/accountBalance' and contains(@text, 'R')])[1]",
+BackArrow,BackArrow,xpath,,//android.widget.ImageButton[@content-desc="Navigate up"],
+currentBalance,currentBalance,xpath,,//android.widget.TextView[@resource-id="za.co.neolabs.bankzero:id/account_balance"],
+VerticalDots,VerticalDots,xpath,,(//android.widget.ImageView[@resource-id="za.co.neolabs.bankzero:id/tileMenu"])[1],
+recipientName,recipientName,xpath,,//android.widget.TextView[@resource-id="za.co.neolabs.bankzero:id/recipientName"],
+Reference,Reference,xpath,,//android.widget.EditText[@resource-id="za.co.neolabs.bankzero:id/reference"],
+transactionTitle,transactionTitle,xpath,,//android.widget.TextView[@resource-id="za.co.neolabs.bankzero:id/transaction_title"],
+transactionDate,transactionDate,xpath,,//android.widget.TextView[@resource-id="za.co.neolabs.bankzero:id/transaction_date"],
+PushNotification,PushNotification,xpath,,//android.widget.FrameLayout[@resource-id="com.android.systemui:id/expandableNotificationRow"],
+Recipient Name,Recipient Name,xpath,,//android.widget.TextView[@resource-id="za.co.neolabs.bankzero:id/recipient_name"],
+purchaseAmount,purchaseAmount,xpath,,//android.widget.TextView[@resource-id="za.co.neolabs.bankzero:id/purchase_amount"],
+ReferenceName,ReferenceName,xpath,,//android.widget.TextView[@resource-id="za.co.neolabs.bankzero:id/what_reference"],
+Transfer,Transfer,xpath,,//android.widget.TextView[@resource-id="za.co.neolabs.bankzero:id/menuItemText" and @text="Transfer"],
+transferBtn,transferBtn,xpath,,//android.widget.Button[@resource-id="za.co.neolabs.bankzero:id/btnSubmit"],
+accName,accname,xpath,,//android.widget.TextView[@resource-id="za.co.neolabs.bankzero:id/accountName"],

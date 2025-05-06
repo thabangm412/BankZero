@@ -1,0 +1,10 @@
+Test_Case_Id,Test_Case_Description,LoginInPin0,LoginInPin1,LoginInPin2,LoginInPin3,LoginInPin4,PreferredName,CellNumber,Roles,AmountA,AmountB,AmountC,Source,Target
+1,Add authorizers1,3,0,3,0,3,Gift,0792751027,Authoriser
+2,Add authorizers2,3,0,3,0,3,lizo,0781234567,Authoriser
+3,Add authorizers3,3,0,3,0,3,Gwane,0824090883,Authoriser
+4,Add level A authorizer,3,0,3,0,3,,,,300,,,1,1
+5,Add level B authorizer,3,0,3,0,3,,,,,100
+6,Add level C authorizer,3,0,3,0,3,,,,,,50
+
+
+

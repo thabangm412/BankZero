@@ -1,0 +1,3 @@
+Test_Case_Id,Test_Case_Description,LoginInPin0,LoginInPin1,LoginInPin2,LoginInPin3,LoginInPin4,Profiles,cellNoTextBox,nameTextBox,ExpectedFriendsName
+1,Invite With An Existing BAnkzero Account,1,1,1,1,1,Michi,0835555321,Philile,Philile
+2,Not An Existing BankZero Account,1,1,1,1,1,Michi,0865512387,James,James

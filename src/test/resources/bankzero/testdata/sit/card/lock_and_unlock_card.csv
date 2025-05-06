@@ -1,0 +1,4 @@
+Test_Case_Id,LoginInPin0,LoginInPin1,LoginInPin2,LoginInPin3,LoginInPin4,LocalDailyCash,GlobalDailyCash,MaxPurchaseAmount,staffName,CellNo
+1,1,9,6,2,1,300.00,6000.00,50000.00,Khanya Gwane,0735147749
+2,1,9,6,2,1,300.00,6000.00,50000.00,Khanya Gwane,0735147749
+3,1,9,6,2,1,300.00,6000.00,50000.00,Khanya Gwane,0735147749

@@ -1,0 +1,12 @@
+﻿Recipient Name;Account Number;Reference;Amount
+Discovery 1;8007645151;Test case 1;R10.00
+Discovery 2;2007645149;Test case 2;R20.50
+Discovery 3;3007645148;Test case 3;R31.50
+Discovery 4;4007645147;Test case 4;R40.00
+Discovery 5;5007645146;Test case 5;R52.00
+Discovery 6;6007645145;Test case 6;R68.00
+Discovery 7;7007645144;Test case 7;R75.50
+Discovery 8;8007645143;Test case 8;R80.00
+Discovery 9;2007645122;Test case 9;R90.00
+Discovery 10 ;3007644915;Test case 10;R105.50
+Discovery 11;1007643716;Test case 11;R110.00

@@ -1,0 +1,4 @@
+Test_Case_Id,LoginInPin0,LoginInPin1,LoginInPin2,LoginInPin3,LoginInPin4,SaIdNo,Surname,AllNames,TypeOfNationality,TypeOfIDocument,filePathBirthCertificate,Image
+1,0,8,5,2,3,1006160623084,Khoza,Nico,South Africa,Birth certificate,src/test/resources/bankzero/doc/BirthCertificate.jpeg,BirthCertificate.jpeg
+2,1,9,6,2,1,1005129510085,Mankabindi,Glen Shivambu,South Africa,Birth certificate,src/test/resources/bankzero/doc/BirthCertificate.jpeg,BirthCertificate.jpeg
+3,1,9,6,2,1,1005129510085,Mankabindi,Glen Shivambu,South Africa,Birth certificate,src/test/resources/bankzero/doc/BirthCertificate.jpeg,BirthCertificate.jpeg

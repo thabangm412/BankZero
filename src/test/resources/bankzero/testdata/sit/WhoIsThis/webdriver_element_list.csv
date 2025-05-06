@@ -1,0 +1,46 @@
+Record_Id ,Description,WebDriver_Element_Selector_Type,WebDriver_Element_Selector_Value,Android_WebDriver_Element_Selector_Value,IOS_WebDriver_Element_Selector_Value
+LoginInPin0,Login In Pin 0,xpath,,//android.widget.EditText[@resource-id='za.co.neolabs.bankzero:id/login_pin_0_0_0'],//XCUIElementTypeWindow/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeSecureTextField[1]
+LoginInPin1,Login In Pin 1,xpath,,//android.widget.EditText[@resource-id='za.co.neolabs.bankzero:id/login_pin_0_0_1'],//XCUIElementTypeWindow/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeSecureTextField[2]
+LoginInPin2,Login In Pin 2,xpath,,//android.widget.EditText[@resource-id='za.co.neolabs.bankzero:id/login_pin_0_0_2'],//XCUIElementTypeWindow/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeSecureTextField[3]
+LoginInPin3,Login In Pin 3,xpath,,//android.widget.EditText[@resource-id='za.co.neolabs.bankzero:id/login_pin_0_0_3'],//XCUIElementTypeWindow/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeSecureTextField[4]
+LoginInPin4,Login In Pin 4,xpath,,//android.widget.EditText[@resource-id='za.co.neolabs.bankzero:id/login_pin_0_0_4'],//XCUIElementTypeWindow/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeSecureTextField[5]
+VerticalBusinessDots,VerticalBusinessDots,xpath,,(//android.widget.ImageView[@resource-id="za.co.neolabs.bankzero:id/tileMenu"])[3],
+WhoIsTheseBtn,WhoIsTheseBtn,xpath,,//android.widget.TextView[@resource-id="za.co.neolabs.bankzero:id/menuItemText" and @text="Who is this"],
+TradingName,TradingName,xpath,,//android.widget.EditText[@resource-id="za.co.neolabs.bankzero:id/trading_as_input"],
+RegisteredName,RegisteredName,xpath,,//android.widget.EditText[@resource-id="za.co.neolabs.bankzero:id/registeredname_input"],
+RegisteredNo,RegisteredNo,xpath,,//android.widget.EditText[@resource-id="za.co.neolabs.bankzero:id/trading_registration_no"],
+DropdownSICgroup,DrowdownSICgroup,xpath,,//android.widget.TextView[@resource-id="android:id/text1"][1],
+DropdownSICindustry,DrowdownSICindustry,xpath,,(//android.widget.TextView[@resource-id="android:id/text1"])[2],
+DropdownSourceFund,DropdownSourceFund,xpath,,//android.widget.GridView[@resource-id="za.co.neolabs.bankzero:id/source_of_funds_grid"]
+OkBtn,OkBtn,xpath,,//android.widget.Button[@resource-id="za.co.neolabs.bankzero:id/submit_btn"],
+DropdownSourceOfWealth,DropdownSourceOfWealth,xpath,,//android.widget.TextView[@resource-id="za.co.neolabs.bankzero:id/sow_penciltext"],
+OtherSpecify,OtherSpecify,xpath,,//android.widget.EditText[@resource-id="za.co.neolabs.bankzero:id/other_source_of_wealth_input"],
+Email,Email,xpath,,//android.widget.EditText[@resource-id="za.co.neolabs.bankzero:id/trading_email_address"],
+NextBtn,NextBtn,xpath,,//android.widget.Button[@resource-id="za.co.neolabs.bankzero:id/submit_btn"],
+DropDownOwnership,DropDownOwership,xpath,,(//android.widget.TextView[@resource-id="android:id/text1"])[1],
+DropDownAddress,DropDownAddress,xpath,,(//android.widget.TextView[@resource-id="android:id/text1"])[2],
+SearchAddress,SearchAddress,xpath,,//android.widget.AutoCompleteTextView[@resource-id="za.co.neolabs.bankzero:id/search_registered_address"],
+EstateName,EstateName,xpath,,//android.widget.EditText[@resource-id="za.co.neolabs.bankzero:id/selected_registered_address_1"],
+StreetName,StreetName,xpath,,//android.widget.EditText[@resource-id="za.co.neolabs.bankzero:id/selected_registered_address_2"],
+Suburb,Suburb,xpath,,//android.widget.AutoCompleteTextView[@resource-id="za.co.neolabs.bankzero:id/selected_registered_address_3"],
+Checkbox,Checkbox,xpath,,//android.widget.CheckBox[@resource-id="za.co.neolabs.bankzero:id/physical_checkbox"],
+AppPin0,AppPin0,xpath,,(//android.widget.EditText[@resource-id="za.co.neolabs.bankzero:id/pin_0"])[1],
+AppPin1,AppPin1,xpath,,(//android.widget.EditText[@resource-id="za.co.neolabs.bankzero:id/pin_1"])[1],
+AppPin2,AppPin2,xpath,,(//android.widget.EditText[@resource-id="za.co.neolabs.bankzero:id/pin_2"])[1],
+AppPin3,AppPin3,xpath,,(//android.widget.EditText[@resource-id="za.co.neolabs.bankzero:id/pin_3"])[1],
+AppPin4,AppPin4,xpath,,(//android.widget.EditText[@resource-id="za.co.neolabs.bankzero:id/pin_4"])[1],
+CardPin0,CardPin0,xpath,,(//android.widget.EditText[@resource-id="za.co.neolabs.bankzero:id/pin_0"])[2],
+CardPin1,CardPin1,xpath,,(//android.widget.EditText[@resource-id="za.co.neolabs.bankzero:id/pin_1"])[2],
+CardPin2,CardPin2,xpath,,(//android.widget.EditText[@resource-id="za.co.neolabs.bankzero:id/pin_2"])[2],
+CardPin3,CardPin3,xpath,,(//android.widget.EditText[@resource-id="za.co.neolabs.bankzero:id/pin_3"])[2],
+CardPin4,CardPin4,xpath,,(//android.widget.EditText[@resource-id="za.co.neolabs.bankzero:id/pin_4"])[2],
+UpdateBtn,UpdateBtn,xpath,,//android.widget.Button[@resource-id="za.co.neolabs.bankzero:id/submit_btn"],
+TradingAdressCheckBox,TradingAdressCheckBox,xpath,,//android.widget.CheckBox[@resource-id="za.co.neolabs.bankzero:id/physical_checkbox"],
+DropDownAddressNot,DropDownAddressNot,xpath,,(//android.widget.TextView[@resource-id="android:id/text1"])[4],
+OfficeName,OfficeName,xpath,,//android.widget.EditText[@resource-id="za.co.neolabs.bankzero:id/selected_physical_address_1"],
+
+Suburb/City,Suburb/City,xpath,,//android.widget.AutoCompleteTextView[@resource-id="za.co.neolabs.bankzero:id/selected_physical_address_3"],
+road,road,xpath,,//android.widget.EditText[@resource-id="za.co.neolabs.bankzero:id/selected_physical_address_2"]
+
+
+

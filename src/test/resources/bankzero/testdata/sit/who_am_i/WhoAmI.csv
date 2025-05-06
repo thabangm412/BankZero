@@ -1,0 +1,6 @@
+Test_Case_Id,Test_Case_Description,LoginInPin0,LoginInPin1,LoginInPin2,LoginInPin3,LoginInPin4,Profiles,DeviceName,ProfileAndCellNo,Surname,AllNames,PreferredName,Title,Nationality,Email,TypeOfDwelling,EstateName,SourceOfFundsList,SARSTaxNo,TaxCountry,RecoveryCellNo,ConfirmRecoveryCellNo,SourceOfWealthList,RecoveryEmail,StreetName,Suburb/City,UpdateStatus
+1,Update My Details On Who Am I,1,1,1,1,1,Jules,,,Bellaire,Jules Shoni,Jules,Prof,South Africa,innocentmasindi381+i90@gmail.com,House,,Allowance,0123456789,South Africa,0696925248,0696925248,Spouse,Jules@gmail.com,1703 lengene street,Protea North,Updated!
+2,Viewing My Fica Documents,1,1,1,1,1,Jules,,,,,,
+3,Update My App Settings,1,1,1,1,1,Jules,,
+4,Unpair Devices,1,1,1,1,1,Auto,samsung SM-A536E,Auto 0865512000,
+5,Contact,1,1,1,1,1,Jules,,

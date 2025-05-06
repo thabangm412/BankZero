@@ -1,0 +1,14 @@
+Test_Case_Id,Test_Case_Description,LoginInPin0,LoginInPin1,LoginInPin2,LoginInPin3,LoginInPin4,Profiles,TypeOfAccount,AmountEdit,ReferenceEdit,Status
+1,Withdrawal for 7 days money higher  balance,1,2,3,4,5,Mpho,BusinessAccountDots7,3000,food
+2,Withdrawal for 7 days money lower than  balance,1,2,3,4,5,Mpho,BusinessAccountDots7,52,car,Confirmed:
+3,Withdrawal for 7 days money higher  balance sonner than tomorrow,1,2,3,4,5,Mpho,BusinessAccountDots7,1000,soccer
+4,Withdrawal for 7 days money lower than  balance sooner than tomorrow,1,2,3,4,5,Mpho,BusinessAccountDots7,15,house,Confirmed:
+5,Withdrawal for 32 days money higher than balance,1,2,3,4,5,Mpho,BusinessAccountDots32,6000,school
+6,Withdrawal for 32 days money lower  balance,1,2,3,4,5,Mpho,BusinessAccountDots32,15,sweets,Confirmed:
+7,Withdrawal for 32 days money higher than balance sooner than tomorrow,1,2,3,4,5,Mpho,BusinessAccountDots32,2000,cupcake
+8,Withdrawal for 32 days money lower  balance sooner than tomorrow,1,2,3,4,5,Mpho,BusinessAccountDots32,25,loan,Confirmed:
+9,Withdrawal for 45 days money higher than balance,1,2,3,4,5,Mpho,BusinessAccountDots45,8000,clothes
+10,Withdrawal for 45 days money lower than balance,1,2,3,4,5,Mpho,BusinessAccountDots45,90,burger,Confirmed:
+11,Withdrawal for 45 days money higher than balance sooner than tomorrow,1,2,3,4,5,Mpho,BusinessAccountDots45,3000,laptop
+12,Withdrawal for 45 days money lower than balance sooner than tomorrow,1,2,3,4,5,Mpho,BusinessAccountDots45,35,phone,Confirmed:
+

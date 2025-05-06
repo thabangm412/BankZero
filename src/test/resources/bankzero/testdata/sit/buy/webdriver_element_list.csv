@@ -1,0 +1,38 @@
+Record_Id ,Description,WebDriver_Element_Selector_Type,WebDriver_Element_Selector_Value,Android_WebDriver_Element_Selector_Value,IOS_WebDriver_Element_Selector_Value
+LoginInPin0,Login In Pin 0,xpath,,//android.widget.EditText[@resource-id='za.co.neolabs.bankzero:id/login_pin_0_0_0'],//XCUIElementTypeWindow/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeSecureTextField[1]
+LoginInPin1,Login In Pin 1,xpath,,//android.widget.EditText[@resource-id='za.co.neolabs.bankzero:id/login_pin_0_0_1'],//XCUIElementTypeWindow/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeSecureTextField[2]
+LoginInPin2,Login In Pin 2,xpath,,//android.widget.EditText[@resource-id='za.co.neolabs.bankzero:id/login_pin_0_0_2'],//XCUIElementTypeWindow/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeSecureTextField[3]
+LoginInPin3,Login In Pin 3,xpath,,//android.widget.EditText[@resource-id='za.co.neolabs.bankzero:id/login_pin_0_0_3'],//XCUIElementTypeWindow/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeSecureTextField[4]
+LoginInPin4,Login In Pin 4,xpath,,//android.widget.EditText[@resource-id='za.co.neolabs.bankzero:id/login_pin_0_0_4'],//XCUIElementTypeWindow/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeSecureTextField[5]
+VerticalDots,vertical dots,xpath,,(//android.widget.ImageView[@resource-id="za.co.neolabs.bankzero:id/tileMenu"])[1],(//XCUIElementTypeImage[@name='vertical-dots'])[1]
+Buy,Buy,xpath,,//android.widget.TextView[@resource-id="za.co.neolabs.bankzero:id/menuItemText" and @text="Buy"],
+AddNewRecipient,AddNewRecipient,xpath,,//android.widget.ImageView[@resource-id='za.co.neolabs.bankzero:id/tile_to_image'],
+ItemName,ItemName,xpath,,//android.widget.EditText[@resource-id='za.co.neolabs.bankzero:id/_inputText'],
+SelectProvider,Provider Dropdown,xpath,,//android.widget.TextView[@resource-id='android:id/text1'],
+CellNo,CellNo,xpath,,//android.widget.EditText[@resource-id='za.co.neolabs.bankzero:id/recipient_phone'],
+Email,Email,xpath,,//android.widget.EditText[@resource-id='za.co.neolabs.bankzero:id/notify_email'],
+NotifyCellNo,NotifyCellNo,xpath,,//android.widget.EditText[@resource-id='za.co.neolabs.bankzero:id/notify_cellno'],
+Add,Add,xpath,,//android.widget.Button[@resource-id='za.co.neolabs.bankzero:id/btnSubmit'],
+Vodacom,Vodacom,xpath,,//android.widget.TextView[@resource-id='android:id/text1' and @text='Vodacom'],
+Cell C,Cell C,xpath,,//android.widget.TextView[@resource-id='android:id/text1' and @text='Cell C'],
+Telkom,Telkom,xpath,,//android.widget.TextView[@resource-id='android:id/text1' and @text='Telkom'],
+MTN,MTN,xpath,,//android.widget.TextView[@resource-id='android:id/text1' and @text='MTN'],
+Amount,Amount,xpath,,//android.widget.EditText[@resource-id='za.co.neolabs.bankzero:id/amount'],
+Reference,Reference,xpath,,//android.widget.EditText[@resource-id='za.co.neolabs.bankzero:id/reference'],
+BuyItem,Buy Button,xpath,,//android.widget.Button[@resource-id='za.co.neolabs.bankzero:id/btnSubmit'],
+Confirm,Confirm Button,xpath,,//android.widget.Button[@resource-id='za.co.neolabs.bankzero:id/btnSubmit'],
+Confirm2,Confirm Button,xpath,,//android.widget.Button[@resource-id="za.co.neolabs.bankzero:id/btnConfirm"],
+Finish,Finish Button,xpath,,//android.widget.Button[@resource-id='za.co.neolabs.bankzero:id/btnConfirm'],
+Electricity,Electricity,xpath,,//android.widget.TextView[@resource-id='za.co.neolabs.bankzero:id/list_text' and @text='Electricity'],
+Data,Data,xpath,,//android.widget.TextView[@resource-id='za.co.neolabs.bankzero:id/list_text' and @text='Data'],
+SMS,SMS,xpath,,//android.widget.TextView[@resource-id='za.co.neolabs.bankzero:id/list_text' and @text='SMS'],
+Bundles,Bundles,xpath,,//android.widget.TextView[@resource-id='za.co.neolabs.bankzero:id/list_text' and @text='Bundles'],
+SelectProduct,SelectProduct,xpath,,//android.widget.TextView[@resource-id='android:id/text1' and @text='Please select'],
+SelectRecipient,SelectRecipient,xpath,,//android.widget.TextView[@resource-id='android:id/text1'],
+Meter Number,Meter Number,xpath,,//android.widget.EditText[@resource-id='za.co.neolabs.bankzero:id/meter_number'],
+SMSTokenNumber,SMSTokenNumber,xpath,,//android.widget.EditText[@resource-id='za.co.neolabs.bankzero:id/token_phone_no'],
+Provider, Provider Dropdown,xpath,,//android.widget.Spinner[@resource-id='za.co.neolabs.bankzero:id/provider'],
+ExitButton,ExitButton,xpath,,//android.widget.ImageView[@resource-id="za.co.neolabs.bankzero:id/mnu_exit"],
+Status,Status,xpath,,//android.widget.TextView[@resource-id='za.co.neolabs.bankzero:id/status_textview'],
+Airtime,Airtime,xpath,,//android.widget.TextView[@resource-id='za.co.neolabs.bankzero:id/list_text' and @text='Airtime'],
+Profiles,Profiles,xpath,,//android.widget.TextView[@resource-id="za.co.neolabs.bankzero:id/item"],

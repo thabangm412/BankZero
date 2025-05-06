@@ -1,0 +1,5 @@
+Test_Case_Id,Test_Case_Description,LoginInPin0,LoginInPin1,LoginInPin2,LoginInPin3,LoginInPin4,Profiles,selectFromAccount,SelectAccountType,goalAmountTextBox,accountNameTextBox,AmountTransferred,AmountTextBox,searchTextBox,NewAccountStatus
+1,Account type =Savings: Goal Amount = 50000: Amount Transferred=100,1,1,1,1,1,Anton,Anton Sole ,Savings,50000,Car Service,100,100,Check image.jpeg,Account successfully added.  You can access this account from your canvas.
+2,Account type =7 Day Notice: Goal Amount = 15000: Amount Transferred=150,1,1,1,1,1,Anton,Anton Sole ,7 Day Notice,15000,Birthday,150,150,Check image.jpeg,Account successfully added.  You can access this account from your canvas.
+3,Account type =32 Day Notice : Goal Amount = 10000: Amount Transferred=100,1,1,1,1,1,Anton,Anton Sole ,32 Day Notice,10000,Shopping,100,100,Check image.jpeg,Account successfully added.  You can access this account from your canvas.
+4,Account type =45 Day Notice: Goal Amount = 5000: Amount Transferred=100,1,1,1,1,1,Anton,Anton Sole ,45 Day Notice,5000,Vacation,100,100,Check image.jpeg,Account successfully added.  You can access this account from your canvas.

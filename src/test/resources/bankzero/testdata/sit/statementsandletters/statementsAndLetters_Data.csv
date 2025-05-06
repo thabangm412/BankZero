@@ -1,0 +1,7 @@
+Test_Case_Id,Test_Case_Description,LoginInPin0,LoginInPin1,LoginInPin2,LoginInPin3,LoginInPin4,Profiles,TypeOfDocument,selectPeriod,EmailMessage,SaveMessage
+1,Send email for document type = Account Confirmation Letter,3,0,3,0,3,Kay,Account Confirmation Letter,,Email sent successful. Please check your inbox,
+2,Send email for document type = Salary Switch Letter,1,9,6,2,1,Kay,Salary Switch Letter,,Email sent successful. Please check your inbox,
+3,Send email for document type = Welcome Letter,1,9,6,2,1,Kay,Welcome Letter,,Email sent successful. Please check your inbox,
+4,Statement and Letters  Send email for document type = Account Statements : Period October-2024,1,9,6,2,1,Kay,Account Statements,October-2024,Email sent successful. Please check your inbox,
+5,Statement and Letters  Send email for document type = Account Statements : Period September-2024,1,9,6,2,1,Kay,Account Statements,September-2024,Email sent successful. Please check your inbox,
+6,Download payments recipients,1,9,6,2,1,Kay,Download payments recipients,,,File saved!

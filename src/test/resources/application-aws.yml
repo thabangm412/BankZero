@@ -1,0 +1,23 @@
+debug: true
+
+spring:
+  mail:
+    host: 'email-smtp.us-east-1.amazonaws.com'
+    port: 465
+    username: 'username@amazonaws.com'
+    password: 'xxxxxx'
+    properties:
+      mail:
+        protocol: smtp
+        smtp:
+          auth: true
+          ssl:
+            enable: true
+          starttls:
+            enable: true
+            required: true
+
+# SSL, post 465
+#spring.mail.properties.mail.smtp.socketFactory.port = 465
+#spring.mail.properties.mail.smtp.socketFactory.class = javax.net.ssl.SSLSocketFactory
+

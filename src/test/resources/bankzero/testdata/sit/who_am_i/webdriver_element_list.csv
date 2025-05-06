@@ -1,0 +1,55 @@
+Record_Id ,Description,WebDriver_Element_Selector_Type,WebDriver_Element_Selector_Value,Android_WebDriver_Element_Selector_Value,IOS_WebDriver_Element_Selector_Value
+LoginInPin0,Login In Pin 0,xpath,,//android.widget.EditText[@resource-id="za.co.neolabs.bankzero:id/login_pin_0_0_0"],//XCUIElementTypeApplication[@name="Bank Zero"]/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeSecureTextField[1]
+LoginInPin1,Login In Pin 1,xpath,,//android.widget.EditText[@resource-id="za.co.neolabs.bankzero:id/login_pin_0_0_1"],//XCUIElementTypeApplication[@name="Bank Zero"]/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeSecureTextField[2]
+LoginInPin2,Login In Pin 2,xpath,,//android.widget.EditText[@resource-id="za.co.neolabs.bankzero:id/login_pin_0_0_2"],//XCUIElementTypeApplication[@name="Bank Zero"]/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeSecureTextField[3]
+LoginInPin3,Login In Pin 3,xpath,,//android.widget.EditText[@resource-id="za.co.neolabs.bankzero:id/login_pin_0_0_3"],//XCUIElementTypeApplication[@name="Bank Zero"]/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeSecureTextField[4]
+LoginInPin4,Login In Pin 4,xpath,,//android.widget.EditText[@resource-id="za.co.neolabs.bankzero:id/login_pin_0_0_4"],//XCUIElementTypeApplication[@name="Bank Zero"]/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeSecureTextField[5]
+iconPerson,iconPerson,xpath,,//android.widget.ImageView[@resource-id="za.co.neolabs.bankzero:id/mnu_whoami"],//XCUIElementTypeImage[@name="ic_person_new"]
+myDetails,myDetails,xpath,,//android.widget.TextView[@resource-id="za.co.neolabs.bankzero:id/item" and @text="My details"],//XCUIElementTypeTable/XCUIElementTypeCell[1]
+Surname,Surname,xpath,,//android.widget.EditText[@resource-id="za.co.neolabs.bankzero:id/surname"],//XCUIElementTypeTextField[@value="Mahlalela"]
+PreferredName,PreferredName,xpath,,//android.widget.EditText[@resource-id="za.co.neolabs.bankzero:id/preferredname"],//XCUIElementTypeTextField[@value="Philile"]
+AllNames,AllNames,xpath,,//android.widget.EditText[@resource-id="za.co.neolabs.bankzero:id/fullNames"],//XCUIElementTypeTextField[@value="Philile Portia"]
+title,title,xpath,,(//android.widget.TextView[@resource-id="android:id/text1"])[1],//XCUIElementTypeTextField[@value="Ms"]
+sa_id_no,sa_id_no,xpath,,,//XCUIElementTypeTextField[@value="9402131035080"]
+nationality,nationality,xpath,,(//android.widget.TextView[@resource-id="android:id/text1"])[2],//XCUIElementTypeTextField[@value="South Africa"]
+typeOfDwelling,typeOfDwelling,xpath,,(//android.widget.TextView[@resource-id="android:id/text1"])[3],
+Email,Email,xpath,,//android.widget.EditText[@resource-id="za.co.neolabs.bankzero:id/emailaddress"],//XCUIElementTypeTextField[@value="ppmahlalela@gmail.com"]
+StreetName,StreetName,xpath,,//android.widget.EditText[@resource-id="za.co.neolabs.bankzero:id/selected_res_address_2"],//XCUIElementTypeTextField[@value="906 Box Fish Street"]
+Suburb/City,Suburb/City,xpath,,//android.widget.AutoCompleteTextView[@resource-id="za.co.neolabs.bankzero:id/selected_res_address_3"],//XCUIElementTypeTextField[@value="Kaalfontein, Midrand"]
+province,province,xpath,,,//XCUIElementTypeTextField[@value="Gauteng"]
+code,code,xpath,,,//XCUIElementTypeTextField[@value="1632"]
+ownership,ownership,xpath,,,//XCUIElementTypeTextField[@value="I'm renting"]
+nextButton,nextButton,xpath,,//android.widget.Button[@resource-id="za.co.neolabs.bankzero:id/submit_btn"],//XCUIElementTypeButton[@name="Next"]
+sourceOfFunds,sourceOfFunds,xpath,,//android.widget.ImageView[@resource-id="za.co.neolabs.bankzero:id/taptoedit_funds"],(//XCUIElementTypeImage[@name="ic_pencil_white"])[1]
+sourceOfWealth,sourceOfWealth,xpath,,//android.widget.ImageView[@resource-id="za.co.neolabs.bankzero:id/taptoedit_wealth"],(//XCUIElementTypeImage[@name="ic_pencil_white"])[2]
+SourceOfFundsList,SourceOfFundsList,xpath,,,(//XCUIElementTypeImage[@name="unselected"])[1]
+cancel_button,cancel_button,xpath,,,//XCUIElementTypeButton[@name="X"]
+SourceOfWealthList,SourceOfWealthList,xpath,,,(//XCUIElementTypeImage[@name="unselected"])[1]
+updateButton,updateButton,xpath,,//android.widget.Button[@resource-id="za.co.neolabs.bankzero:id/submit_btn"],//XCUIElementTypeButton[@name="Update"]
+update_settings,update_settings,xpath,,,//XCUIElementTypeStaticText[@name="Settings updated successfully"]
+okButton,okButton,xpath,,//android.widget.Button[@resource-id="za.co.neolabs.bankzero:id/submit_btn"],//XCUIElementTypeButton[@name="Ok"]
+finishButton,finishButton,xpath,,//android.widget.Button[@resource-id="za.co.neolabs.bankzero:id/submit_btn"],//XCUIElementTypeButton[@name="Finish"]
+EstateName,EstateName,xpath,,//android.widget.EditText[@resource-id="za.co.neolabs.bankzero:id/selected_res_address_1"],
+SARSTaxNo,SARSTaxNo,xpath,,//android.widget.EditText[@resource-id="za.co.neolabs.bankzero:id/sars_taxNumber"],
+taxCountry,taxCountry,xpath,,//android.widget.TextView[@resource-id="android:id/text1"],
+RecoveryCellNo,RecoveryCellNo,xpath,,//android.widget.EditText[@resource-id="za.co.neolabs.bankzero:id/recovery_cellno"],
+ConfirmRecoveryCellNo,ConfirmRicoveryCellNo,xpath,,//android.widget.EditText[@resource-id="za.co.neolabs.bankzero:id/recovery_cellno_confirm"],
+RecoveryEmail,RecoveryEmail,xpath,,//android.widget.EditText[@resource-id="za.co.neolabs.bankzero:id/recovery_email_address"],
+testBtn,testBtn,xpath,,(//android.widget.ImageView[@resource-id="za.co.neolabs.bankzero:id/tile_image"])[6],
+toolbarTitle,toolbarTitle,xpath,,//android.widget.TextView[@resource-id="za.co.neolabs.bankzero:id/toolbar_title"],
+searchAddress,searchAddress,xpath,,//android.widget.AutoCompleteTextView[@resource-id="za.co.neolabs.bankzero:id/search_residential_address"],
+search,search,xpath,,//android.widget.AutoCompleteTextView[@resource-id="za.co.neolabs.bankzero:id/search_residential_address"],
+MyFicaDocuments,MyFicaDocuments,xpath,,//android.widget.TextView[@resource-id="za.co.neolabs.bankzero:id/item" and @text="My FICA documents"],
+backArrow,backArrow,xpath,,//android.widget.ImageButton[@content-desc="Navigate up"],
+MyAppSettings,MyAppSettings,xpath,,//android.widget.TextView[@resource-id="za.co.neolabs.bankzero:id/item" and @text="My App settings"],
+Select/DeselectTransaInfo,Select/DeselectTransaInfo,xpath,,//android.widget.CheckBox[@resource-id="za.co.neolabs.bankzero:id/show_account_transactions"],
+Select/DeselectDailyEmail,Select/DeselectDailyEmail,xpath,,//android.widget.CheckBox[@resource-id="za.co.neolabs.bankzero:id/suppress_daily_mail"],
+Select/DeselectTiles,Select/DeselectTiles,xpath,,//android.widget.CheckBox[@resource-id="za.co.neolabs.bankzero:id/suppress_daily_mail"],
+confirmBtn,confirmBtn,xpath,,//android.widget.Button[@resource-id="za.co.neolabs.bankzero:id/btnSubmit"],
+Contact,Contact,xpath,,//android.widget.TextView[@resource-id="za.co.neolabs.bankzero:id/item" and @text="Contact"],
+MyPairedDevices,MyPairedDevices,xpath,,//android.widget.TextView[@resource-id="za.co.neolabs.bankzero:id/item" and @text="My paired devices"],
+binIcon,binIcon,xpath,,//android.widget.ImageView[@resource-id="za.co.neolabs.bankzero:id/unpair_device"],
+Confirm,Confirm,xpath,,//android.widget.Button[@resource-id="android:id/button1"],
+highlightInfo,highlightInfo,xpath,,//android.widget.Button[@content-desc="info@bankzero.co.za, info@bankzero.co.za"],
+Profiles,Profiles,xpath,,//android.widget.TextView[@resource-id="za.co.neolabs.bankzero:id/item"],
+

@@ -1,0 +1,111 @@
+application.url:
+
+selenium:
+  grid:
+    url: ""
+
+browser:
+  name: chrome
+  environment: local
+chrome:
+  driver:
+    version: '116.0.5845.97'
+    path: '/webdrivers/chrome/chromedriver.exe'
+    display:
+      mode: "--window"
+
+firefox:
+  driver:
+    version: '0.33.0'
+ie:
+  driver:
+    version:
+edge:
+  driver:
+    version: '115.0.1901.203'
+    path: 'webdrivers/edge/msedgedriver.exe'
+
+webdriver:
+  timeout:
+    script:
+      seconds: 10000
+    pageLoad:
+      seconds: 10000
+    implicitlyWait:
+      seconds: 10000
+  wait:
+    timeout:
+      milliseconds: 20000
+
+
+appium:
+  udid: 'RZCT90FJ01B'
+  bundleId: 'com.bankzero.ios'
+  android:
+    browserName: 'chrome'
+    app: ''
+    appPackage:  'za.co.neolabs.bankzero'
+    appActivity: 'za.co.neolabs.bankzero.SplashActivity'
+    noReset: true
+    fullReset: false
+    autoGrantPermissions: true
+  ios:
+    autoAcceptAlerts: true
+  server:
+    url: 'http://127.0.0.1:4723/'
+  device:
+    name: 'Samsung'
+  platform:
+    name: android
+    version:
+aws:
+  s3:
+    bucketName: google-test-reports
+bucketName: google-test-reports
+
+product: bankzero
+test:
+  environment: sit
+  data.root.path:
+
+ibm:
+  mq:
+    queueManager:
+    channel:
+    connName:
+    host:
+    port:
+    user:
+    password:
+  queues:
+    sampleQueues: MQCLIENT_MQ1.RESPONSE.FROM.MQSERVER_MQ2,MQCLIENT_MQ1.RESPONSE.FROM.MQSERVER_MQ1
+
+  demo:
+    concurrency:
+      size:
+        low: 1
+        high: 6
+
+#AWS Mail server configuration
+debug: false
+spring:
+  mail:
+    host: 'email-smtp.us-east-1.amazonaws.com'
+    port: 465
+    username: 'qa.engineer@amazonaws.com'
+    password: 'xxxxxx'
+    properties:
+      mail:
+        protocol: smtp
+        smtp:
+          auth: true
+          ssl:
+            enable: true
+          starttls:
+            enable: true
+            required: true
+  main:
+    lazy-initialization: true
+      # SSL, post 465
+      #spring.mail.properties.mail.smtp.socketFactory.port = 465
+      #spring.mail.properties.mail.smtp.socketFactory.class = javax.net.ssl.SSLSocketFactory

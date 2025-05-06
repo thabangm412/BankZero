@@ -1,0 +1,73 @@
+emailRecepients:
+application.url:
+browser: edge
+chrome:
+  driver:
+    version: '112.0.5615.49'
+    path: '/webdrivers/chrome/chromedriver.exe'
+firefox:
+  driver:
+    version: '0.33.0'
+ie:
+  driver:
+    version:
+edge:
+  driver:
+    version:
+
+webdriver:
+  wait:
+    timeout:
+      milliseconds: 10000
+
+rest:
+  api:
+    auth:
+      username:
+      password:
+
+server:
+  url: "http://localhost"
+  port: 80
+ibm:
+  mq:
+    queueManager:
+    channel:
+    connName:
+    host:
+    port:
+    user:
+    password:
+  queues:
+    sampleQueues: MQCLIENT_MQ1.RESPONSE.FROM.MQSERVER_MQ2,MQCLIENT_MQ1.RESPONSE.FROM.MQSERVER_MQ1
+
+  demo:
+    concurrency:
+      size:
+        low: 1
+        high: 6
+
+
+#AWS Mail server configuration
+debug: true
+spring:
+  mail:
+    host: 'email-smtp.us-east-1.amazonaws.com'
+    port: 465
+    username: 'qa.engineer@amazonaws.com'
+    password: 'xxxxxx'
+    properties:
+      mail:
+        protocol: smtp
+        smtp:
+          auth: true
+          ssl:
+            enable: true
+          starttls:
+            enable: true
+            required: true
+  main:
+    lazy-initialization: true
+        # SSL, post 465
+        #spring.mail.properties.mail.smtp.socketFactory.port = 465
+        #spring.mail.properties.mail.smtp.socketFactory.class = javax.net.ssl.SSLSocketFactory

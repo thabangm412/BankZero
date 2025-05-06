@@ -1,0 +1,30 @@
+Record_Id ,Description,WebDriver_Element_Selector_Type,WebDriver_Element_Selector_Value,Android_WebDriver_Element_Selector_Value,IOS_WebDriver_Element_Selector_Value
+LoginInPin0,Login In Pin 0,xpath,,//ANDROID.widget.EditText[@resource-id='za.co.neolabs.bankzero:id/login_pin_0_0_0'],//XCUIElementTypeWindow/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeSecureTextField[1]
+LoginInPin1,Login In Pin 1,xpath,,//ANDROID.widget.EditText[@resource-id='za.co.neolabs.bankzero:id/login_pin_0_0_1'],//XCUIElementTypeWindow/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeSecureTextField[2]
+LoginInPin2,Login In Pin 2,xpath,,//ANDROID.widget.EditText[@resource-id='za.co.neolabs.bankzero:id/login_pin_0_0_2'],//XCUIElementTypeWindow/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeSecureTextField[3]
+LoginInPin3,Login In Pin 3,xpath,,//ANDROID.widget.EditText[@resource-id='za.co.neolabs.bankzero:id/login_pin_0_0_3'],//XCUIElementTypeWindow/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeSecureTextField[4]
+LoginInPin4,Login In Pin 4,xpath,,//ANDROID.widget.EditText[@resource-id='za.co.neolabs.bankzero:id/login_pin_0_0_4'],//XCUIElementTypeWindow/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeSecureTextField[5]
+PlusSign,PlusSign,xpath,,(//ANDROID.widget.ImageView[@resource-id="za.co.neolabs.bankzero:id/tile_image"])[3],//XCUIElementTypeCollectionView/XCUIElementTypeCell[1]/XCUIElementTypeOther/XCUIElementTypeOther
+childIcon,childIcon,xpath,,//ANDROID.widget.TextView[@resource-id="za.co.neolabs.bankzero:id/add_child_text"],//XCUIElementTypeButton[@name="Add child"]
+SaIdNo,SaIdNo,xpath,,//ANDROID.widget.EditText[@resource-id="za.co.neolabs.bankzero:id/rsa_idNo"],//XCUIElementTypeTextField[@value="SA ID no"]
+Surname,Surname,xpath,,//ANDROID.widget.EditText[@resource-id="za.co.neolabs.bankzero:id/surname"],//XCUIElementTypeTextField[@value="Surname"]
+AllNames,AllNames,xpath,,//ANDROID.widget.EditText[@resource-id="za.co.neolabs.bankzero:id/fullNames"],//XCUIElementTypeTextField[@value="All names"]
+Nationality,Nationality,xpath,,//ANDROID.widget.TextView[@resource-id="ANDROID:id/text1" and @text="South Africa"],//XCUIElementTypeTextField[@value="South Africa"]
+attachClip,attachClip,xpath,,//ANDROID.widget.ImageView[@resource-id="za.co.neolabs.bankzero:id/attach_clip"],//XCUIElementTypeApplication[@name="Bank Zero"]/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeScrollView/XCUIElementTypeOther[1]/XCUIElementTypeOther[3]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther
+TypeOfIDocument,TypeOfIDocument,xpath,,,//XCUIElementTypeStaticText[@name="Birth certificate"]
+file,file,xpath,,,//XCUIElementTypeButton[@name="FILE"]
+SelectImageOn,SelectImageOn,xpath,,,//XCUIElementTypeButton[@name="FILE"]
+UploadClipImage,UploadClipImage,xpath,,//ANDROID.widget.ImageButton[@resource-id="za.co.neolabs.bankzero:id/btn_upload_image"],//XCUIElementTypeButton[@name="ic clip document"]
+PlusSign,PlusSign,xpath,,(//ANDROID.widget.ImageView[@resource-id="za.co.neolabs.bankzero:id/tile_image"])[6],
+childIcon,childIcon,xpath,,//ANDROID.widget.TextView[@resource-id="za.co.neolabs.bankzero:id/add_child_text"],
+SaIdNo,SaIdNo,xpath,,//ANDROID.widget.EditText[@resource-id="za.co.neolabs.bankzero:id/rsa_idNo"],
+Surname,Surname,xpath,,//ANDROID.widget.EditText[@resource-id="za.co.neolabs.bankzero:id/surname"],
+AllNames,AllNames,xpath,,//ANDROID.widget.EditText[@resource-id="za.co.neolabs.bankzero:id/fullNames"],
+Nationality,Nationality,xpath,,//ANDROID.widget.TextView[@resource-id="ANDROID:id/text1" and @text="South Africa"],
+attachClip,attachClip,xpath,,//ANDROID.widget.ImageView[@resource-id="za.co.neolabs.bankzero:id/attach_clip"],
+UploadClipImage,UploadClipImage,xpath,,//ANDROID.widget.ImageButton[@resource-id="za.co.neolabs.bankzero:id/btn_upload_image"],
+uploadBtn,uploadBtn,xpath,,//ANDROID.widget.Button[@resource-id="za.co.neolabs.bankzero:id/submit_btn"],//XCUIElementTypeCell[@name="Lomathemba, pdf"]/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeImage
+inviteBtn,inviteBtn,xpath,,//ANDROID.widget.Button[@resource-id="za.co.neolabs.bankzero:id/submit_btn"],//XCUIElementTypeButton[@name="Invite"]
+confirmBtn,confrimBtn,xpath,,//ANDROID.widget.Button[@resource-id="za.co.neolabs.bankzero:id/submit_btn"],//XCUIElementTypeButton[@name="Confirm"]
+ThankYou,ThankYou,xpath,,//ANDROID.widget.TextView[@resource-id="za.co.neolabs.bankzero:id/toolbarTitle"],
+Finish,Finish,xpath,,//ANDROID.widget.Button[@resource-id="za.co.neolabs.bankzero:id/submit_btn"],//XCUIElementTypeButton[@name="Finish"]

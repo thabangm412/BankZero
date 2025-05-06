@@ -1,0 +1,4 @@
+Test_Case_Id,Test_Case_Description,LoginInPin0,LoginInPin1,LoginInPin2,LoginInPin3,LoginInPin4,Profiles,TypeOfAccount,friendName,cellNo,ExpectedMessage
+1,Add a Friend,1,2,3,4,5,Glen,Philile,0824090883,Confirmed:
+2,Delete A Friend With Bank Zero Account,1,9,6,2,1,Glen,Khanya Gwane,0824090883,
+3,,1,9,6,2,1,Glen,Khanya Gwane,0824090883,Invited 0790909008

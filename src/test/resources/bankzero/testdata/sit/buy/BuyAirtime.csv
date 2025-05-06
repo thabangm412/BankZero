@@ -1,0 +1,7 @@
+Test_Case_Id,Test_Case_Description,LoginInPin0,LoginInPin1,LoginInPin2,LoginInPin3,LoginInPin4,Profiles,ItemName,Provider,NotifyCellNo,Email,CellNo,Amount,Reference,SuccessStatus,ExistingRecipient
+1,Add Recipient and Buy Airtime On Vodacom,1,1,1,1,1,Jules,My frienDi,Vodacom,0679294166,info@bankzero.co.za,0724447137,100,Innocent,Success,
+2,Add Recipient and Buy Airtime On ,1,1,1,1,1,Jules,AMTnZed,MTN,0679294166,info@bankzero.co.za,0838118774,120,Innocent,Success,
+3,Add Recipient and Buy Airtime On,1,1,1,1,1,Jules,ATelklo,Cell C,0679294166,info@bankzero.co.za,0731078014,140,Innocent,Success,
+4,Add Recipient and Buy Airtime On,1,1,1,1,1,Jules,AVodalo,Telkom,0679294166,info@bankzero.co.za,0679294166,160,Innocent,Success,
+5,Buy Airtime on Existing Item,1,1,1,1,1,Jules,,0679294166,info@bankzero.co.za,0829803141,180,Innocent,AMTnZed,Success
+,,,,,,,,,,,,,,

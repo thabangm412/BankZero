@@ -1,0 +1,8 @@
+Test_Case_Id,Test_Case_Description,LoginInPin0,LoginInPin1,LoginInPin2,LoginInPin3,LoginInPin4,Profiles,RecipientName,NotifyCellNo,PhoneNumber,Amount,Reference,UpdateRecipientName,SelectExistingRecipient,Document
+1,Add new Recipient and Send 100,1,1,1,1,1,Inno,Manqo3,0872186865,0862776065,20,Abongile,,Nico,
+2,Send Money on Existing Recipient,1,1,1,1,1,Inno,,,,20,Shakes,,Nico,
+3,Send Money on Existing Recipient And Attach document,1,1,1,1,1,Inno,,,,20,Singela,,Nico,sample-pdf.pdf
+4,Update  Existing Recipient and Send Money,1,1,1,1,1,Inno,,,,20,Gcwabe,Alan,Mnb,
+5,Delete Existing Recipient On Send Money,1,1,1,1,1,Inno,,,,,,,Linda,
+6,Send Money on Existing Recipient using redo,1,1,1,1,1,Inno,,,,,,,Nico,
+,,,,,,,,,,,,,

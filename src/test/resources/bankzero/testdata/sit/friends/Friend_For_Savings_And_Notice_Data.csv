@@ -1,0 +1,12 @@
+Test_Case_Id,Test_Case_Description,LoginInPin0,LoginInPin1,LoginInPin2,LoginInPin3,LoginInPin4,Profiles,friendName,cellNo,Status
+1,Add friend For Savings,1,1,1,1,1,Auto,Phil,0860345901,Confirmed:
+2,Delete friend For Savings,1,1,1,1,1,Auto,,,
+3,Add a Friend For 7 Days Notice,1,1,1,1,1,Auto,Phil,0860345901,Confirmed:
+4,Delete Friend For 7 Days Notice,1,1,1,1,1,Auto,,,
+5,Add a Friend For 32 Days Notice,1,1,1,1,1,Auto,Phil,0860345901,Confirmed:
+6,Delete Friend For 32 Days Notice,1,1,1,1,1,Auto,,,
+7,Add a Friend For 45 Days Notice,1,1,1,1,1,Auto,Phil,0860345901,Confirmed:
+8,Delete Friend For 45 Days Notice,1,1,1,1,1,Auto,,,
+
+
+

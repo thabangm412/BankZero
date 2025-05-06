@@ -1,0 +1,24 @@
+Record_Id ,Description,WebDriver_Element_Selector_Type,WebDriver_Element_Selector_Value,Android_WebDriver_Element_Selector_Value,IOS_WebDriver_Element_Selector_Value
+LoginInPin0,Login In Pin 0,xpath,,//android.widget.EditText[@resource-id='za.co.neolabs.bankzero:id/login_pin_0_0_0'],//XCUIElementTypeWindow/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeSecureTextField[1]
+LoginInPin1,Login In Pin 1,xpath,,//android.widget.EditText[@resource-id='za.co.neolabs.bankzero:id/login_pin_0_0_1'],//XCUIElementTypeWindow/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeSecureTextField[2]
+LoginInPin2,Login In Pin 2,xpath,,//android.widget.EditText[@resource-id='za.co.neolabs.bankzero:id/login_pin_0_0_2'],//XCUIElementTypeWindow/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeSecureTextField[3]
+LoginInPin3,Login In Pin 3,xpath,,//android.widget.EditText[@resource-id='za.co.neolabs.bankzero:id/login_pin_0_0_3'],//XCUIElementTypeWindow/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeSecureTextField[4]
+LoginInPin4,Login In Pin 4,xpath,,//android.widget.EditText[@resource-id='za.co.neolabs.bankzero:id/login_pin_0_0_4'],//XCUIElementTypeWindow/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeSecureTextField[5]
+PlusSign,PlusSign,xpath,,(//android.widget.ImageView[@resource-id="za.co.neolabs.bankzero:id/tile_image"])[2],//XCUIElementTypeImage[@name="plus"]
+childIcon,childIcon,xpath,,//android.widget.TextView[@resource-id="za.co.neolabs.bankzero:id/add_child_text"],
+loveIcon,loveIcon,xpath,,//android.widget.TextView[@resource-id="za.co.neolabs.bankzero:id/invite_someone_text"],//XCUIElementTypeButton[@name="Invite friend or staff"]
+nameTextBox,nameTextBox,xpath,,//android.widget.EditText[@resource-id="za.co.neolabs.bankzero:id/invite_friend_name"],//XCUIElementTypeTextField[@value="Friend name"]
+cellNoTextBox,cellNoTextBox,xpath,,//android.widget.EditText[@resource-id="za.co.neolabs.bankzero:id/invite_friend_cellno"],//XCUIElementTypeTextField[@value="Cell number"]
+SaIdNo,SaIdNo,xpath,,//android.widget.EditText[@resource-id="za.co.neolabs.bankzero:id/rsa_idNo"],
+Surname,Surname,xpath,,//android.widget.EditText[@resource-id="za.co.neolabs.bankzero:id/surname"],
+AllNames,AllNames,xpath,,//android.widget.EditText[@resource-id="za.co.neolabs.bankzero:id/fullNames"],
+Nationality,Nationality,xpath,,//android.widget.TextView[@resource-id="android:id/text1" and @text="South Africa"],
+attachClip,attachClip,xpath,,//android.widget.ImageView[@resource-id="za.co.neolabs.bankzero:id/attach_clip"],
+UploadClipImage,UploadClipImage,xpath,,//android.widget.ImageButton[@resource-id="za.co.neolabs.bankzero:id/btn_upload_image"],
+uploadBtn,uploadBtn,xpath,,//android.widget.Button[@resource-id="za.co.neolabs.bankzero:id/submit_btn"],
+inviteBtn,inviteBtn,xpath,,//android.widget.Button[@resource-id="za.co.neolabs.bankzero:id/btnConfirm"],//XCUIElementTypeButton[@name="Add"]
+confirmBtn,confrimBtn,xpath,,//android.widget.Button[@resource-id="za.co.neolabs.bankzero:id/btnConfirm"],//XCUIElementTypeButton[@name="Confirm"]
+confirmMessage,confirmMessage,xpath,,//android.widget.TextView[@text="The following SMS invite will be sent to their phone number:-"],
+Finish,Finish,xpath,,//android.widget.Button[@resource-id="za.co.neolabs.bankzero:id/btnConfirm"],//XCUIElementTypeButton[@name="Finish"]
+friendsName,friendsName,xpath,,//android.widget.TextView[@resource-id="za.co.neolabs.bankzero:id/invite_friend_name"],
+friendsCellNo,friendsCellNo,xpath,,//android.widget.TextView[@resource-id="za.co.neolabs.bankzero:id/invite_friend_cellno"],

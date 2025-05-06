@@ -1,0 +1,9 @@
+Test_Case_Id,Test_Case_Description,LoginInPin0,LoginInPin1,LoginInPin2,LoginInPin3,LoginInPin4,Profiles,TypeOfAccount,SearchForImage,ChangedName,ToolbarTitle,SettingsStatus,BranchCode,nameOfBanker,cellOnOfBanker
+1,Changing Account Image,1,2,3,4,5,Mpho,BusinessAccountDots,20240616_090918.jpg,,Thank you,Settings updated successfully.,888000
+2,Changing Account Name,1,2,3,4,5,Mpho,BusinessAccountDots,,CQ Test tech(Ltd),Thank you,Settings updated successfully.,888000
+3,Account details copied to clipboard,1,1,1,1,1,Auto,BusinessAccountDots,,,,
+4,Add new relationship banking with existing bank zero customer,1,1,1,1,1,Auto,BusinessAccountDots,,,,,,Khanya Gwane,0824090883
+5,Add new relationship banking with not existing bank zero customer,1,1,1,1,1,Auto,BusinessAccountDots,,,,,,Casper chauke,0723456781
+6,Maximum of two Relationship Banking profile,1,1,1,1,1,Auto,BusinessAccountDots,,,,,888000
+7,Delete an existing Relationship Banking profile,1,1,1,1,1,Auto,BusinessAccountDots,,,,,,,
+8,Cancel delete an existing Relationship Banking profile,1,1,1,1,1,Auto,BusinessAccountDots,,,,,,,

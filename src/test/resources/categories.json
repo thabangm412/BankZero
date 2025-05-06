@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Database Connection Failure",
+    "traceRegex": ".*CannotGetJdbcConnectionException.*",
+    "matchedStatuses": [
+      "broken",
+      "failed"
+    ]
+  },
+  {
+    "name": "Database Connection Failure",
+    "messageRegex": ".*NullPointerException.*",
+    "matchedStatuses": [
+      "broken",
+      "failed"
+    ]
+  }
+]

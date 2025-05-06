@@ -1,0 +1,7 @@
+Test_Case_Id,Test_Case_Description,LoginInPin0,LoginInPin1,LoginInPin2,LoginInPin3,LoginInPin4,Profiles,TypeOfAccount,Amount,Reference,ScheduleTime,on date,From date,To date,Select Day,Status
+1,transfer to my future,1,2,3,4,5,Mpho,BusinessAccountDots,100,food,,,,,,Transfer success
+2,transfer to savings account never,1,2,3,4,5,Mpho,BusinessAccountDots,200,clothe,Never,,,,,<Schedule removed>
+3,transfer to savings account once off,1,2,3,4,5,Mpho,BusinessAccountDots,300,shelter,Once-off,29 December 2024,,,,<Schedule updated.See tile for detail>
+4,transfer to savings account weeky,1,2,3,4,5,Mpho,BusinessAccountDots,400,car,Weekly,,6 December 2024,31 December 2024,Tuesday,<Schedule updated.See tile for detail>
+5,transfer to savings account monthly,1,2,3,4,5,Mpho,BusinessAccountDots,100,tea,Monthly,,6 December 2024,29 December 2024,7th day,<Schedule updated.See tile for detail>
+
